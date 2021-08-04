@@ -3,11 +3,11 @@ home: true
 heroImage: https://z3.ax1x.com/2021/08/03/fiKNN9.jpg
 tagline: An association of Cantonese lovers
 actionText: About us →
-actionLink: /about/
+actionLink: /en/about/
 xfeatures:
 - title: Jyutdict
   details: Pan-Cantonese pronunciation query platform
-  link: https://jyutdict.org/
+  link: /en/jyutdict/
   target: ''
 - title: Bilibili Platform
   details: Produce and publish Cantonese popular science videos
