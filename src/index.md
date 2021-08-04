@@ -9,7 +9,7 @@ xfeatures:
   details: 各地粵語字音查詢平臺
   link: /jyutdict/
   target: ''
-- title: Bilibili 平台
+- title: Bilibili 平臺
   details: 製作並發佈粵語科普視頻
   link: https://space.bilibili.com/410568594
   target: view_window
