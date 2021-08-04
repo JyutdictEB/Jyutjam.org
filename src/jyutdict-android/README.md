@@ -8,11 +8,11 @@ sidebar: auto
 
 **下載地址**
 
-百度網盤（提取码：djms）：[https://pan.baidu.com/s/1r7mo35tEwZ0zAjQHIacf8w](https://pan.baidu.com/s/1r7mo35tEwZ0zAjQHIacf8w)
+- [百度網盤](https://pan.baidu.com/s/1r7mo35tEwZ0zAjQHIacf8w)（提取码：djms）
 
-天翼雲盤：[https://cloud.189.cn/t/yA7FVnUzQZj2](https://cloud.189.cn/t/yA7FVnUzQZj2)
+- [天翼雲盤](https://cloud.189.cn/t/yA7FVnUzQZj2)
 
-Github Releases: [https://github.com/JyutdictEB/Jyutdict-Android/releases](https://github.com/JyutdictEB/Jyutdict-Android/releases)
+- [Github Releases](https://github.com/JyutdictEB/Jyutdict-Android/releases)
 
 以下係「泛粵典安卓版 0.3」嘅介紹。
 
@@ -148,7 +148,7 @@ Github Releases: [https://github.com/JyutdictEB/Jyutdict-Android/releases](https
 
 簡繁異轉換字表來自 [OpenCC](https://github.com/BYVoid/OpenCC)
 
-### 3.2 泛粵字表來源/填寫人：
+### 3.2 泛粵字表來源/填寫人
 
 臺山　　：——
 
