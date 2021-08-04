@@ -66,21 +66,23 @@ sidebar: auto
 
 廣州：[@以成](https://www.zhihu.com/people/huang-jun-xin-74)
 
+肇慶：[@Ecr-弋汐](https://www.zhihu.com/people/ecisrhetha)
+
 梧州、蒼梧及分韻英華兼原甲方：[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)
 
 茂名：潘少、[@Aleko Lau](https://www.zhihu.com/people/lau-alex)、常ならむ
 
-貴港：[@貴糖菠蘿](https://www.zhihu.com/people/teng-teng-64-96) 以及《貴港話同音字彙》（黃格凡）
-
-鬱林：[@暾明](https://www.zhihu.com/people/tun-ming-89)
-
-北海：[@Sin Yeung](https://www.zhihu.com/people/xian-yang-61)
-
-南寧、廉州、南寧平話：《廣西通志·漢語方言志》+ 互聯網 + [@Sin Yeung](https://www.zhihu.com/people/xian-yang-61) 審查並校對
+防城：[@晴海喵鱼子](https://www.zhihu.com/people/recif-poisson)
 
 欽州：[@Jzit](https://www.zhihu.com/people/lai-joengzit)
 
-防城：[@晴海喵鱼子](https://www.zhihu.com/people/recif-poisson)
+北海：[@Sin Yeung](https://www.zhihu.com/people/xian-yang-61)
+
+鬱林：[@暾明](https://www.zhihu.com/people/tun-ming-89)
+
+貴港：[@貴糖菠蘿](https://www.zhihu.com/people/teng-teng-64-96) 以及《貴港話同音字彙》（黃格凡）
+
+廉州、南寧平話：《廣西通志·漢語方言志》+ 互聯網 + [@Sin Yeung](https://www.zhihu.com/people/xian-yang-61) 審查並校對
 
 中古音（廣韻）：[@王赟 Maigo](https://www.zhihu.com/people/maigo)《漢語古今中外讀音查詢》入邊 poem 嘅《廣韻字音表》
 
@@ -92,14 +94,14 @@ sidebar: auto
 
 平姐 等人嘅设计协助
 
-嶺南 IT 組（又稱泛粵典編委會 IT 組，JyutdictEB-IT）嘅技術支援：小木、William、[@Aleko Lau](https://www.zhihu.com/people/lau-alex)、行者等人
+嶺南 IT 組（又稱泛粵典編委會 IT 組，[JyutdictEB](https://github.com/JyutdictEB)）嘅技術支援：小木、William、[@Aleko Lau](https://www.zhihu.com/people/lau-alex)、行者等人
 
-泛粵典編委會（JyutdictEB）嘅內測
+泛粵典編委會嘅內測
 
 嶺南粵音提供嘅吹水平臺
 
 ## 4. 聯繫
 
-泛粵大典反饋 Q 群：837607356
+泛粵典反饋組（QQ 羣）：837607356
 
-個人 QQ：526438991
+1.0 版開發者個人 QQ：526438991
