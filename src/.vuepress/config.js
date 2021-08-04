@@ -47,8 +47,12 @@ module.exports = {
             text: '項目介紹',
             items: [
               {
-                text: '泛粵典',
-                link: '/jyutdict/'
+                text: '泛粵典安卓版 0.3',
+                link: '/jyutdict-android/'
+              },
+              {
+                text: '泛粵典網頁版 0.8',
+                link: '/jyutdict-web/'
               },
               {
                 text: '擴展粵拼方案（J++）',
@@ -108,8 +112,12 @@ module.exports = {
             text: 'Projects',
             items: [
               {
-                text: 'Jyutdict',
-                link: '/en/jyutdict/'
+                text: 'Jyutdict Android 0.3',
+                link: '/en/jyutdict-android/'
+              },
+              {
+                text: 'Jyutdict Web 0.8',
+                link: '/en/jyutdict-web/'
               },
               {
                 text: 'Jyutping++ (J++)',

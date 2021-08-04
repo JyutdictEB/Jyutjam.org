@@ -6,7 +6,7 @@ sidebar: auto
 
 本文曾在 2021年 6 月 26 日 香港語言學學會 · 第二十一屆粵語討論會 (WOC-21) 報告
 
-報告人：以成，指南
+報告人：[@以成](https://www.zhihu.com/people/huang-jun-xin-74)，指南 [@Zenam](https://www.zhihu.com/people/zenam)
 
 ## 1. 摘要
 

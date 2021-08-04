@@ -1,13 +1,13 @@
 ---
 home: true
 heroImage: https://z3.ax1x.com/2021/08/03/fiKNN9.jpg
-tagline: An association of Cantonese lovers
+tagline: Online Association for Yue Studies Lovers
 actionText: About us →
 actionLink: /en/about/
 xfeatures:
-- title: Jyutdict
-  details: Pan-Cantonese pronunciation query platform
-  link: /en/jyutdict/
+- title: Jyutdict Android
+  details: Pan-Cantonese pronunciation query app
+  link: /en/jyutdict-web/
   target: ''
 - title: Bilibili Platform
   details: Produce and publish Cantonese popular science videos

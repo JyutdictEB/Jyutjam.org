@@ -5,9 +5,9 @@ tagline: 粵語研究愛好者網上社團
 actionText: 關於我哋 →
 actionLink: /about/
 xfeatures:
-- title: 泛粵典
-  details: 各地粵語字音查詢平臺
-  link: /jyutdict/
+- title: 泛粵典安卓版
+  details: 各地粵語字音查詢 App，相較網頁版多咗「查泛粵字表」功能
+  link: /jyutdict-android/
   target: ''
 - title: Bilibili 平臺
   details: 製作並發佈粵語科普視頻
