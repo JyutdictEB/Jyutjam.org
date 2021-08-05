@@ -21,4 +21,6 @@ Special Note: As of August 4, 2021, the Lingnaam Jyutjam Association has never c
 
 This page is under construction
 
+This page may not be updated in time, please refer to the Cantonese version.
+
 Contact us: jyutjam@tutanota.com
