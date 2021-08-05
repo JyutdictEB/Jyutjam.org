@@ -12,12 +12,12 @@ sidebar: auto
 
 目前（2021 年），「嶺南粵音」嘅主要成員主要有以下研究內容（非營利性）：
 
-- 編寫及搭建各地粵語字音查詢平臺——[泛粵典](/jyutdict-android/)：
+- 編寫及搭建各地粵語字音查詢平臺——「[泛粵典](/jyutdict-android/)」
 - 製作粵語科普視頻——通過「[Bilibili 平臺](https://space.bilibili.com/410568594)」發佈
 - 研究各地粵語語音、音系及拼音方案，並設計「[擴展粵拼方案（J++）](/j++/)」
 - 收集各地粵語語言資源
 
-**特別注意：截至目前（2021 年 8 月 4 日）爲止，除咗同 Bilibili 平臺嘅「叮叮好正」合作過[一條片](https://www.bilibili.com/video/BV1ji4y1L7W6)之外，「嶺南粵音」從未與其它任何機構或商業組織合作，亦從未向外發佈任何捐款請求。** 謹防受騙，請以官方消息爲準（如「[Bilibili 平臺動態](https://space.bilibili.com/410568594/dynamic)」或本站）。
+**特別注意：截至目前（2021 年 8 月 4 日）爲止，除咗同 Bilibili 平臺嘅「叮叮好正」合作過[一條片](https://www.bilibili.com/video/BV1ji4y1L7W6)之外，「嶺南粵音」從未與其它任何機構或商業組織合作，亦從未向外發佈過任何捐款請求。** 謹防受騙，請以官方消息爲準（如「[Bilibili 平臺動態](https://space.bilibili.com/410568594/dynamic)」或本站）。
 
 ## 2. 社團結構
 

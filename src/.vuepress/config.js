@@ -47,11 +47,11 @@ module.exports = {
             text: '項目介紹',
             items: [
               {
-                text: '泛粵典安卓版 0.3',
+                text: '泛粵典安卓版',
                 link: '/jyutdict-android/'
               },
               {
-                text: '泛粵典網頁版 0.8',
+                text: '泛粵典網頁版',
                 link: '/jyutdict-web/'
               },
               {
@@ -74,7 +74,7 @@ module.exports = {
             ]
           },
           {
-            text: '泛粵典',
+            text: '泛粵典網頁版',
             link: 'https://jyutdict.org/'
           },
           {
@@ -112,11 +112,11 @@ module.exports = {
             text: 'Projects',
             items: [
               {
-                text: 'Jyutdict Android 0.3',
+                text: 'Jyutdict Android',
                 link: '/en/jyutdict-android/'
               },
               {
-                text: 'Jyutdict Web 0.8',
+                text: 'Jyutdict Web',
                 link: '/en/jyutdict-web/'
               },
               {
@@ -139,7 +139,7 @@ module.exports = {
             ]
           },
           {
-            text: 'Jyutdict',
+            text: 'Jyutdict Web',
             link: 'https://jyutdict.org/'
           },
           {

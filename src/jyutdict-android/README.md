@@ -2,7 +2,9 @@
 sidebar: auto
 ---
 
-# 泛粵典安卓版 0.3
+# 泛粵典安卓版
+
+當前版本：0.3.7
 
 本安卓應用爲[開源項目](https://github.com/JyutdictEB/Jyutdict-Android)，歡迎 issue 及 star。
 
@@ -14,7 +16,7 @@ sidebar: auto
 
 - [Github Releases](https://github.com/JyutdictEB/Jyutdict-Android/releases)
 
-以下係「泛粵典安卓版 0.3」嘅介紹。
+以下係「泛粵典安卓版」嘅介紹。
 
 ## 1. 泛粵典
 
@@ -78,7 +80,7 @@ sidebar: auto
 
 ![泛粵字表查音](./Kelit-P-P.jpg)
 
-**注意，請勿將「綜合音」等同廣州音/香港音**，綜合音嘅一些特殊審定規則如下：
+**注意，請勿將「綜合音」等同廣州音/香港音**，綜合音嘅制定依據如下：
 
 > **聲母：**
 >
@@ -222,9 +224,9 @@ sidebar: auto
 
 泛粵典反饋組（QQ 羣）：837607356
 
-個人QQ：526438991
+開發者個人QQ：526438991
 
-個人知乎：@Ecr.弋夕希霅（舊）/ [@Ecr-弋汐](https://www.zhihu.com/people/ecisrhetha)（現）
+開發者個人知乎：@Ecr.弋夕希霅（舊）/ [@Ecr-弋汐](https://www.zhihu.com/people/ecisrhetha)（現）
 
 ## 5. 隱私聲明
 

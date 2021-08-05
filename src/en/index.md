@@ -7,7 +7,7 @@ actionLink: /en/about/
 xfeatures:
 - title: Jyutdict Android
   details: Pan-Cantonese pronunciation query app
-  link: /en/jyutdict-web/
+  link: /en/jyutdict-android/
   target: ''
 - title: Bilibili Platform
   details: Produce and publish Cantonese popular science videos
