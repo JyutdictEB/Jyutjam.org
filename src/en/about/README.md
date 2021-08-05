@@ -4,7 +4,7 @@ sidebar: auto
 
 # About us
 
-"Lingnaam Jyutjam" was started in 2017, initially as a QQ group by a group of folk who were keen on studying Cantonese from all over the world. The original intention of the group was to build a platform for Yue studies lovers.
+"Lingnaam Jyutjam" was started in 2017, initially as a QQ group by a group of folk who were keen on studying Yue Language. The original intention of the group was to build a platform for Yue studies lovers.
 
 In the summer of 2018, the Jyutdict was prepared for construction and the Jyutdict Editorial Board QQ group was subsequently established. As the members of the Editorial Board have all participated to some extent in the writing of the Jyutdict and the video production of the Lingnaam Jyutjam Bilibili Platform, they are key members of the Lingnaam Jyutjam.
 
