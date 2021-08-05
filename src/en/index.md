@@ -10,7 +10,7 @@ xfeatures:
   link: /en/jyutdict-android/
   target: ''
 - title: Bilibili Platform
-  details: Producing and releasing Yue popular science videos
+  details: Producing and releasing videos on fun facts about Yue
   link: https://space.bilibili.com/410568594
   target: view_window
 - title: Contact us

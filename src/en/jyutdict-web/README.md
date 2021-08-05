@@ -14,4 +14,6 @@ Note: If you have an Android device, we strongly recommend that you use the "[Jy
 
 This page is under construction
 
+This page may not be updated in time, please refer to the Cantonese version.
+
 Contact us: jyutjam@tutanota.com

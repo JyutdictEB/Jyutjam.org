@@ -20,4 +20,6 @@ Download Links:
 
 This page is under construction
 
+This page may not be updated in time, please refer to the Cantonese version.
+
 Contact us: jyutjam@tutanota.com
