@@ -11,7 +11,7 @@ In the summer of 2018, the Jyutdict was prepared for construction and the Jyutdi
 At present (2021), the key members of Lingnaam Jyutjam are mainly involved in the following research (not for profit):
 
 - Compile and build a platform for Pan-Cantonese pronunciation query: "[Jyutdict](/en/jyutdict-android/)"
-- Production of Yue popular science videos: released through "[Bilibili platform](https://space.bilibili.com/410568594)"
+- Producing and releasing videos on fun facts about Yue: released through "[Bilibili platform](https://space.bilibili.com/410568594)"
 - Research on Yue phonetics, phonology and romanization schemes in various places, and design "[Jyutping++ (J++)](/en/j++/)"
 - Collect Yue language resources from all over the world
 
