@@ -10,7 +10,7 @@ xfeatures:
   link: /en/jyutdict-android/
   target: ''
 - title: Bilibili Platform
-  details: Produce and publish Cantonese popular science videos
+  details: Producing and releasing Yue popular science videos
   link: https://space.bilibili.com/410568594
   target: view_window
 - title: Contact us
