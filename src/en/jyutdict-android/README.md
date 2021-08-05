@@ -6,7 +6,7 @@ sidebar: auto
 
 Current version: 0.3.7
 
-This Android application is an [open source project](https://github.com/JyutdictEB/Jyutdict-Android), welcome to issue and star.
+This Android application is an [open source project](https://github.com/JyutdictEB/Jyutdict-Android), issues and stars are welcome.
 
 Download Links:
 

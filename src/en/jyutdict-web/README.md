@@ -8,7 +8,7 @@ Current version: 0.8.34.2
 
 Jyutdict Web: [jyutdict.org](https://jyutdict.org/)
 
-Note: If you have an Android device, we strongly recommend that you use the "[Jyutdict Android](/en/jyutdict-android/)" instead of the Web version, because the Android version has more complete data and functions.
+Note: If you have an Android device, we strongly recommend you to use "[Jyutdict Android](/en/jyutdict-android/)" instead of the Web version, as the Android version is more complete in terms of data and functions.
 
 ---
 
