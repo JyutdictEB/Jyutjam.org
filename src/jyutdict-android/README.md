@@ -14,7 +14,7 @@ sidebar: auto
 
 - [天翼雲盤](https://cloud.189.cn/t/yA7FVnUzQZj2)
 
-- [Github Releases](https://github.com/JyutdictEB/Jyutdict-Android/releases)
+- [GitHub Releases](https://github.com/JyutdictEB/Jyutdict-Android/releases)
 
 以下係「泛粵典安卓版」嘅介紹。
 

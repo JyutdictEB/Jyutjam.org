@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /jyutjam_logo.png
+heroImage: /jyutjam_logo_compressed.jpg
 tagline: 粵語研究愛好者網上社團
 actionText: 關於我哋 →
 actionLink: /about/

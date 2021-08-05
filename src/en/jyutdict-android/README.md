@@ -14,7 +14,7 @@ Download Links:
 
 - [189 Cloud Disk](https://cloud.189.cn/t/yA7FVnUzQZj2)
 
-- [Github Releases](https://github.com/JyutdictEB/Jyutdict-Android/releases)
+- [GitHub Releases](https://github.com/JyutdictEB/Jyutdict-Android/releases)
 
 ---
 
