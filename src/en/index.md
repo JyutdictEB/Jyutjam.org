@@ -2,18 +2,18 @@
 home: true
 heroImage: https://z3.ax1x.com/2021/08/03/fiKNN9.jpg
 tagline: Online Association for Yue Studies Lovers
-actionText: About us →
+actionText: About Us →
 actionLink: /en/about/
 xfeatures:
 - title: Jyutdict Android
-  details: Pan-Cantonese pronunciation query app
+  details: An online dictionary platform for Pan-Cantonese words including pronunciations and meanings
   link: /en/jyutdict-android/
   target: ''
-- title: Bilibili Platform
-  details: Making videos on fun facts about Yue
+- title: Our Bilibili
+  details: Making videos on fun facts about Yue Language
   link: https://space.bilibili.com/410568594
   target: view_window
-- title: Contact us
+- title: Contact Us
   details: jyutjam@tutanota.com
   link: 'mailto: jyutjam@tutanota.com'
   target: view_window

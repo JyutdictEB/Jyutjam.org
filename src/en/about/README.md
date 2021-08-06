@@ -5,18 +5,18 @@ sidebar: auto
 # About Us
 ## 1. About Lingnaam Jyutjam
 
-*Lingnaam Jyutjam* was founded in 2017, initially as a group on QQ by fellows who shared a common interest of Yue Language, with the original intention to build a platform for Yue studies lovers.
+*Lingnaam Jyutjam* was founded in 2017, initially as a group on QQ by fellows who shared a common interest of [Yue Language](https://en.wikipedia.org/wiki/Yue_Chinese), with the original intention to build a platform for Yue studies lovers.
 
 In the summer of 2018, *Jyutdict* was prepared for construction and another group *Jyutdict Editorial Board* was subsequently established. In this case, the key members of *Lingnaam Jyutjam* could be defined as those in the group *Jyutdict Editorial Board* to contribute to the compilation of *Jyutdict* and furthermore, to the video production on *Lingnaam Jyutjam Bilibili Account* to a certain extent.
 
 At present (2021), the key members of *Lingnaam Jyutjam* are mainly involved in the following subprojects (not for profit):
 
-- Compilation and building of a online dictionary platform for Pan-Cantonese words including pronunciations and meanings: *[Jyutdict](/en/jyutdict-android/)*
-- Videos production on facts about Yue: released on *[Bilibili](https://space.bilibili.com/410568594)*
+- Compilation and building of an online dictionary platform for Pan-Cantonese words including pronunciations and meanings: *[Jyutdict](/en/jyutdict-android/)*
+- Videos making of fun facts about Yue: released on *[Bilibili](https://space.bilibili.com/410568594)*
 - Research on the phonetics, phonology and romanization schemes of Yue varieties and the design of *[Jyutping++ (J++)](/en/j++/)*
-- A collection of Yue language resources from all over the world
+- A collection of Yue Language resources from all over the world
 
-Special Note: As of August 4, 2021, *Lingnaam Jyutjam Association* has never collaborated with any other commercial or non-commercial organizations, nor has it issued any donation requests, except for [one video](https://www.bilibili.com/video/BV1ji4y1L7W6) with *Ding Ding Hao Zheng* on Bilibili. Please refer to official information (e.g. [Trend on *Bilibili*](https://space.bilibili.com/410568594/dynamic) or this website) to avoid being deceived.
+Special Note: As of August 4, 2021, *Lingnaam Jyutjam Association* has never collaborated with any other commercial or non-commercial organizations, nor has it issued any donation requests, except for [ONE video](https://www.bilibili.com/video/BV1ji4y1L7W6) with *Ding Ding Hao Zheng* on Bilibili. Please refer to official information (e.g. [Trend on *Bilibili*](https://space.bilibili.com/410568594/dynamic) or this website) to avoid being deceived.
 
 ## 2. Structure of the Association
 
@@ -27,9 +27,9 @@ In the date order of foundation:
     - *Lingnaam Jyutjam* Administration Group
     - Editorial Board for Cantonese Orthography Dictionary
     - Jyutdict Editorial Board
-        - [IT Team of Jyutdict Editorial Board](https://github.com/JyutdictEB)
+        - [Jyutdict Editorial Board IT Workgroup](https://github.com/JyutdictEB)
     - Feedback Team of Jyutdict
-    - J++ Special Team
+    - J++ Project Team
     - FoSCL-1 Preparation Team
 
 ## 3. Contact Us

@@ -147,7 +147,7 @@ module.exports = {
             link: 'https://space.bilibili.com/410568594'
           },
           {
-            text: 'About us',
+            text: 'About Us',
             link: '/en/about/'
           },
         ],
