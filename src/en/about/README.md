@@ -3,6 +3,7 @@ sidebar: auto
 ---
 
 # About Us
+## 1. About Lingnaam Jyutjam
 
 *Lingnaam Jyutjam* was founded in 2017, initially as a group on QQ by fellows who shared a common interest of Yue Language, with the original intention to build a platform for Yue studies lovers.
 
