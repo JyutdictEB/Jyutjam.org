@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 
-# About us
+# About Us
 
 *Lingnaam Jyutjam* was founded in 2017, initially as a group on QQ by fellows who shared a common interest of Yue Language, with the original intention to build a platform for Yue studies lovers.
 
@@ -17,7 +17,7 @@ At present (2021), the key members of *Lingnaam Jyutjam* are mainly involved in 
 
 Special Note: As of August 4, 2021, *Lingnaam Jyutjam Association* has never collaborated with any other commercial or non-commercial organizations, nor has it issued any donation request to any outside partie, except for the collaboration with [*Ding Ding Hao Zheng* on Bilibili](https://www.bilibili.com/video/BV1ji4y1L7W6). Please refer to official information (e.g. [Trend on *Bilibili*](https://space.bilibili.com/410568594/dynamic) or this website) to avoid being deceived.
 
-## 2. Structure of the community
+## 2. Structure of the Community
 
 In the date order of foundation:
 
