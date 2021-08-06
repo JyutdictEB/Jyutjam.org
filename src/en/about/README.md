@@ -17,6 +17,26 @@ At present (2021), the key members of *Lingnaam Jyutjam* are mainly involved in 
 
 Special Note: As of August 4, 2021, *Lingnaam Jyutjam Association* has never collaborated with any other commercial or non-commercial organizations, nor has it issued any donation request to any outside partie, except for the collaboration with [*Ding Ding Hao Zheng* on Bilibili](https://www.bilibili.com/video/BV1ji4y1L7W6). Please refer to official information (e.g. [Trend on *Bilibili](https://space.bilibili.com/410568594/dynamic)* or this website) to avoid being deceived.
 
+## 2. Structure of the community
+
+In the date order of foundation:
+
+- Lingnaam Jyutjam
+    - Lingnaam Orthography
+    - *Lingnaam Jyutjam* Administration Group
+    - Compilation Board for Cantonese Orthography Dictionary
+    - Jyutdict Compilation Board
+        - [IT Team of Jyutdict Compilation Board](https://github.com/JyutdictEB)
+    - Feedback Team of Jyutdict
+    - J++ Special Team
+    - FoSCL-1 Preparation Team
+
+## 3. Contact Us
+
+- [Private messages on Bilibili](https://space.bilibili.com/410568594)
+- Email: jyutjam@tutanota.com
+- Feedback Team of Jyutdict (QQ group): 837607356
+
 ---
 
 This page is under construction
