@@ -7,7 +7,7 @@ sidebar: auto
 
 *Lingnaam Jyutjam* was founded in 2017, initially as a group on QQ by fellows who shared a common interest of Yue Language, with the original intention to build a platform for Yue studies lovers.
 
-In the summer of 2018, *Jyutdict* was prepared for construction and another group *Jyutdict Compilation Board* was subsequently established. In this case, the key members of *Lingnaam Jyutjam* could be defined as those in the group *Jyutdict Compilation Board* to contribute to the compilation of *Jyutdict* and furthermore, to the video production on *Lingnaam Jyutjam Bilibili Account* to a certain extent.
+In the summer of 2018, *Jyutdict* was prepared for construction and another group *Jyutdict Editorial Board* was subsequently established. In this case, the key members of *Lingnaam Jyutjam* could be defined as those in the group *Jyutdict Editorial Board* to contribute to the compilation of *Jyutdict* and furthermore, to the video production on *Lingnaam Jyutjam Bilibili Account* to a certain extent.
 
 At present (2021), the key members of *Lingnaam Jyutjam* are mainly involved in the following subprojects (not for profit):
 
@@ -25,9 +25,9 @@ In the date order of foundation:
 - Lingnaam Jyutjam
     - Lingnaam Orthography
     - *Lingnaam Jyutjam* Administration Group
-    - Compilation Board for Cantonese Orthography Dictionary
-    - Jyutdict Compilation Board
-        - [IT Team of Jyutdict Compilation Board](https://github.com/JyutdictEB)
+    - Editorial Board for Cantonese Orthography Dictionary
+    - Jyutdict Editorial Board
+        - [IT Team of Jyutdict Editorial Board](https://github.com/JyutdictEB)
     - Feedback Team of Jyutdict
     - J++ Special Team
     - FoSCL-1 Preparation Team
