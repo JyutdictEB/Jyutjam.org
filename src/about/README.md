@@ -28,7 +28,7 @@ sidebar: auto
     - 「嶺南粵音」管理組
     - 粵語正字字典編委會
     - 泛粵典編委會
-        - [泛粵典編委會 IT 組](https://github.com/JyutdictEB)
+        - [泛粵典編委會 IT 工作組](https://github.com/JyutdictEB)
     - 泛粵典反饋組
     - J++ 專案組
     - FoSCL-1 講解籌備組
