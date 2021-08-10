@@ -2,6 +2,18 @@
 sidebar: auto
 ---
 
-This page is under construction
+# Pan-Cantonese Offline Meeting
+
+## 1. Introduction
+
+*Pan-Cantonese Offline Meeting* is an annual gathering of members of Lingnaam Jyutjam, usually held in July to August. The basic format is to pick a place with a local Yue dialect every year and go together to have fun. The following three events have been held successfully so far:
+
+- 2018 Guangzhou Tour
+- 2019 Hong Kong - Shenzhen Tour
+- 2020 Shunde Tour
+
+---
+
+This page may not be updated in time, please refer to the Cantonese version.
 
 Contact us: jyutjam@tutanota.com
