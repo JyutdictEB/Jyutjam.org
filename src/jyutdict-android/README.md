@@ -4,13 +4,15 @@ sidebar: auto
 
 # 泛粵典安卓版
 
-當前版本：0.3.7
+當前版本：0.5.0
 
 本安卓應用爲[開源項目](https://github.com/JyutdictEB/Jyutdict-Android)，歡迎 issue 及 star。
 
 **下載地址**
 
-- [百度網盤](https://pan.baidu.com/s/1r7mo35tEwZ0zAjQHIacf8w)（提取码：djms）
+- [藍奏雲](https://wwa.lanzoui.com/b010whhbe)（提取碼：7xg7）
+
+- [百度網盤](https://pan.baidu.com/s/1r7mo35tEwZ0zAjQHIacf8w)（提取碼：djms）
 
 - [天翼雲盤](https://cloud.189.cn/t/yA7FVnUzQZj2)
 
@@ -124,41 +126,53 @@ sidebar: auto
 
 ### 3.1 通用字表來源
 
-江門：[@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
-
-廣州：[@以成](https://www.zhihu.com/people/huang-jun-xin-74)
-
-肇慶：[@Ecr-弋汐](https://www.zhihu.com/people/ecisrhetha)
-
-梧州、蒼梧及分韻英華：[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)
-
-茂名：潘少、[@Aleko Lau](https://www.zhihu.com/people/lau-alex)、常ならむ
-
-防城：[@晴海喵鱼子](https://www.zhihu.com/people/recif-poisson)
-
-欽州：[@Jzit](https://www.zhihu.com/people/lai-joengzit)
-
-北海：[@Sin Yeung](https://www.zhihu.com/people/xian-yang-61)
-
-鬱林：[@暾明](https://www.zhihu.com/people/tun-ming-89)
-
-貴港：[@貴糖菠蘿](https://www.zhihu.com/people/teng-teng-64-96) 以及《貴港話同音字彙》（黃格凡）
-
-廉州、南寧平話：《廣西通志·漢語方言志》+ 互聯網 + [@Sin Yeung](https://www.zhihu.com/people/xian-yang-61) 審查並校對
+簡繁異轉換字表來自 [OpenCC](https://github.com/BYVoid/OpenCC)
 
 中古音（廣韻）：[@王赟 Maigo](https://www.zhihu.com/people/maigo)《漢語古今中外讀音查詢》入邊 poem 嘅《廣韻字音表》
 
-簡繁異轉換字表來自 [OpenCC](https://github.com/BYVoid/OpenCC)
+分韻、英華：[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai) 主導
+
+開平沙塘：[@xing](https://www.zhihu.com/people/yin-li-chang-liang-80)
+
+新會會城：[@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
+
+江門水南：[@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
+
+廣州　　：[@以成](https://www.zhihu.com/people/huang-jun-xin-74)
+
+肇慶端州：[@Ecr-弋汐](https://www.zhihu.com/people/ecisrhetha)
+
+梧州　　：[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)
+
+茂名　　：潘少、[@Aleko Lau](https://www.zhihu.com/people/lau-alex)、常ならむ
+
+防城　　：[@晴海喵鱼子](https://www.zhihu.com/people/recif-poisson)
+
+欽州　　：[@Jzit](https://www.zhihu.com/people/lai-joengzit)
+
+北海　　：[@Sin Yeung](https://www.zhihu.com/people/xian-yang-61)
+
+廉州　　：《廣西通志·漢語方言志》+ 互聯網 + [@Sin Yeung](https://www.zhihu.com/people/xian-yang-61) 審查並校對
+
+貴港街里：[@貴糖菠蘿](https://www.zhihu.com/people/teng-teng-64-96) 以及《貴港話同音字彙》（黃格凡）
+
+桂平尋旺：[@馮景宸](https://www.zhihu.com/people/jing-meng-xing-cheng)
+
+蒼梧石橋：[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)
+
+容縣　　：PYT
+
+鬱林大塘：[@暾明](https://www.zhihu.com/people/tun-ming-89)
 
 ### 3.2 泛粵字表來源/填寫人
 
-臺山　　：——
+台山　　：——
 
 新會羅坑：——
 
 新會　　：——
 
-江門北街、江華、白沙：[@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
+江門　　：[@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
 
 東莞塘角：《莞語探源》
 
@@ -176,6 +190,8 @@ sidebar: auto
 
 端州　　：@Ecr.弋夕希霅/[@Ecr-弋汐](https://www.zhihu.com/people/ecisrhetha)
 
+鼎湖　　：[@莫嚳](https://www.zhihu.com/people/mo-ku-89)
+
 羅定　　：阿斯巴甜
 
 梧州　　：[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)、金網漸遠綫
@@ -186,9 +202,15 @@ sidebar: auto
 
 南寧　　：——
 
-茂名　　：[@Aleko Lau](https://www.zhihu.com/people/lau-alex)
+湛江　　：曇山
+
+陽江　　：二尾
 
 陽春　　：不羈
+
+高州　　：
+
+茂名　　：[@Aleko Lau](https://www.zhihu.com/people/lau-alex)
 
 北海　　：[@Sin Yeung](https://www.zhihu.com/people/xian-yang-61)
 
@@ -206,7 +228,7 @@ sidebar: auto
 
 貴港　　：[@貴糖菠蘿](https://www.zhihu.com/people/teng-teng-64-96)
 
-桂平尋旺：@馮景宸
+桂平尋旺：[@馮景宸](https://www.zhihu.com/people/jing-meng-xing-cheng)
 
 梧州戎墟：類光源、[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai) 錄入
 
