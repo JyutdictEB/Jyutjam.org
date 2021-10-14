@@ -66,31 +66,43 @@ sidebar: auto
 
 ### 3.1 字表來源
 
-江門：[@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
-
-廣州：[@以成](https://www.zhihu.com/people/huang-jun-xin-74)
-
-肇慶：[@Ecr-弋汐](https://www.zhihu.com/people/ecisrhetha)
-
-梧州、蒼梧及分韻英華兼原甲方：[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)
-
-茂名：潘少、[@Aleko Lau](https://www.zhihu.com/people/lau-alex)、常ならむ
-
-防城：[@晴海喵鱼子](https://www.zhihu.com/people/recif-poisson)
-
-欽州：[@Jzit](https://www.zhihu.com/people/lai-joengzit)
-
-北海：[@Sin Yeung](https://www.zhihu.com/people/xian-yang-61)
-
-鬱林：[@暾明](https://www.zhihu.com/people/tun-ming-89)
-
-貴港：[@貴糖菠蘿](https://www.zhihu.com/people/teng-teng-64-96) 以及《貴港話同音字彙》（黃格凡）
-
-廉州、南寧平話：《廣西通志·漢語方言志》+ 互聯網 + [@Sin Yeung](https://www.zhihu.com/people/xian-yang-61) 審查並校對
+簡繁異轉換字表來自 [OpenCC](https://github.com/BYVoid/OpenCC)
 
 中古音（廣韻）：[@王赟 Maigo](https://www.zhihu.com/people/maigo)《漢語古今中外讀音查詢》入邊 poem 嘅《廣韻字音表》
 
-簡繁異轉換字表來自 [OpenCC](https://github.com/BYVoid/OpenCC)
+分韻、英華：[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai) 主導
+
+開平沙塘：[@xing](https://www.zhihu.com/people/yin-li-chang-liang-80)
+
+新會會城：[@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
+
+江門水南：[@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
+
+廣州　　：[@以成](https://www.zhihu.com/people/huang-jun-xin-74)
+
+肇慶端州：[@Ecr-弋汐](https://www.zhihu.com/people/ecisrhetha)
+
+梧州　　：[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)
+
+茂名　　：潘少、[@Aleko Lau](https://www.zhihu.com/people/lau-alex)、常ならむ
+
+防城　　：[@晴海喵鱼子](https://www.zhihu.com/people/recif-poisson)
+
+欽州　　：[@Jzit](https://www.zhihu.com/people/lai-joengzit)
+
+北海　　：[@Sin Yeung](https://www.zhihu.com/people/xian-yang-61)
+
+廉州　　：《廣西通志·漢語方言志》+ 互聯網 + [@Sin Yeung](https://www.zhihu.com/people/xian-yang-61) 審查並校對
+
+貴港街里：[@貴糖菠蘿](https://www.zhihu.com/people/teng-teng-64-96) 以及《貴港話同音字彙》（黃格凡）
+
+桂平尋旺：[@馮景宸](https://www.zhihu.com/people/jing-meng-xing-cheng)
+
+蒼梧石橋：[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)
+
+容縣　　：PYT
+
+鬱林大塘：[@暾明](https://www.zhihu.com/people/tun-ming-89)
 
 ### 3.2 技術支援鳴謝
 
