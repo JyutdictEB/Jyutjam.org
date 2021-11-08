@@ -28,4 +28,4 @@ sidebar: auto
 
 ## 4. 相關文件
 
-[程序表及論文摘要](https://www.kdocs.cn/l/slahUgt0tY2K)
+[程序表及論文摘要](https://github.com/JyutdictEB/FoSCL-Docs/raw/main/FoSCL-1%20Program%20and%20Abstracts.pdf)

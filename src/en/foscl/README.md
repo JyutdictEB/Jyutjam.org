@@ -28,7 +28,7 @@ This forum is a round-table discussion, with each report lasting no more than 30
 
 ## 4. Related documents
 
-[Program and Abstracts](https://www.kdocs.cn/l/slahUgt0tY2K)
+[Program and Abstracts](https://github.com/JyutdictEB/FoSCL-Docs/raw/main/FoSCL-1%20Program%20and%20Abstracts.pdf)
 
 ---
 
