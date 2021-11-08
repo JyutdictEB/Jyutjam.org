@@ -40,7 +40,7 @@ In the date order of foundation:
 
 - [Private messages on Bilibili](https://space.bilibili.com/410568594)
 - Email: jyutjam@tutanota.com
-- Feedback Team of Jyutdict (QQ group): 837607356
+- Feedback Group of Jyutdict (QQ Group): 837607356
 
 ---
 
