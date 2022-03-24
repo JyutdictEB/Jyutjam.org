@@ -10,7 +10,7 @@ sidebar: auto
 
 ### 1. Introduction
 
-The 5th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 2nd Forum on Southern China Language (or abbreviated as FoSCL-2) was organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
+The 5th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 2nd Forum on Southern China Language (or abbreviated as FoSCL-2) will be organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
 
 - Date: July 22, 2022 (Friday) (Tentative, final dates may be subject to change)
 - Time: 9am - 5pm (Tentative, final timetable will be announced before the start)
@@ -18,7 +18,7 @@ The 5th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 2nd Forum on S
 
 ### 2. Objectives
 
-We hope that:
+We hope:
 
 1. To provide a relatively formal platform for the exchange of Lingnaam Jyutjam through annual academic sharing and discussion before (or after) the regular *[Pan-Cantonese Offline Meeting](/en/pan-cantonese-offline-meeting/)*.
 2. To incubate more achievements through regular exchanges.
@@ -55,7 +55,7 @@ The 4th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 1st Forum on S
 
 ### 2. Objectives
 
-We hope that:
+We hope:
 
 1. To provide a relatively formal platform for the exchange of Lingnaam Jyutjam through annual academic sharing and discussion before (or after) the regular *[Pan-Cantonese Offline Meeting](/en/pan-cantonese-offline-meeting/)*.
 2. To incubate more achievements through regular exchanges.
