@@ -65,8 +65,8 @@ module.exports = {
             text: '社團活動',
             items: [
               {
-                text: '嶺南語言討論會（FoSCL）',
-                link: '/foscl/'
+                text: '嶺南語言討論會（FoLiSC）',
+                link: '/folisc/'
               },
               {
                 text: '泛粵線下交流會',
@@ -130,8 +130,8 @@ module.exports = {
             text: 'Events',
             items: [
               {
-                text: 'Forum on Southern China Language (FoSCL)',
-                link: '/en/foscl/'
+                text: 'Forum on Languages in South China (FoLiSC)',
+                link: '/en/folisc/'
               },
               {
                 text: 'Pan-Cantonese offline meeting',

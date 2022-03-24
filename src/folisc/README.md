@@ -2,15 +2,15 @@
 sidebar: auto
 ---
 
-# 嶺南語言討論會（FoSCL）
+# 嶺南語言討論會（FoLiSC）
 
-![FoSCL_logo](./foscl_logo.png)
+<!-- ![FoLiSC](./folisc_logo.png) -->
 
-## [NEW] FoSCL-2 公開徵稿啓事
+## FoLiSC-2 公開徵稿啓事
 
 ### 1. 簡介
 
-嶺南粵音第五屆泛粵線下交流會暨第二屆嶺南語言討論會（The 5th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 2nd Forum on Southern China Language，FoSCL-2）由嶺南粵音·泛粵典編委會主辦。討論會基本情況如下：
+嶺南粵音第五屆泛粵線下交流會暨第二屆嶺南語言討論會（The 5th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 2nd Forum on Languages in South China，FoLiSC-2）由嶺南粵音·泛粵典編委會主辦。討論會基本情況如下：
 
 - 日期：2022 年 7 月 22 日（星期五）（預定，最終具體日期可能會稍作調整）
 - 時間：早上 9 時至下午 5 時（預定，最終時間表會在開始前公佈）
@@ -25,7 +25,7 @@ sidebar: auto
 
 ### 3. 主題
 
-歡迎各地學者參與討論，或報告與嶺南語言（如粵、客、閩方言乃至非漢語）相關的語言學研究成果（包括但不限於語音學、音系學、形態學、句法學、語義學、類型學、語言習得、心理語言學、神經語言學、計算語言學、語料庫語言學），或是尚未公開發表的研究進展，尤其是進行中的項目、初步研究、學期論文等。
+歡迎各地學者參與討論，或報告與嶺南語言（如粵、客、閩方言乃至民族語）相關的語言學研究成果（包括但不限於語音學、音系學、形態學、句法學、語義學、類型學、語言習得、心理語言學、神經語言學、計算語言學、語料庫語言學），或是尚未公開發表的研究進展，尤其是進行中的項目、初步研究、學期論文等。
 
 ### 4. 報告形式
 
@@ -35,7 +35,7 @@ sidebar: auto
 
 ### 5. 提交摘要
 
-請**不遲於 2022 年 7 月 10 日夜晚 24 時**通過郵件提交摘要，主题附注「FoSCL-2」：
+請**不遲於 2022 年 7 月 10 日夜晚 24 時**通過郵件提交摘要，主题附注「FoLiSC-2」：
 
 - jyutjam@tutanota.com
 
@@ -43,11 +43,11 @@ sidebar: auto
 
 摘要評審結果將於 2022 年 7 月 15 日前公佈。
 
-## FoSCL-1 介紹
+## FoLiSC-1 介紹
 
 ### 1. 簡介
 
-嶺南粵音第四屆泛粵線下交流會暨第一屆嶺南語言討論會（內部）（The 4th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 1st Forum on Southern China Language (Internal)，FoSCL-1）由嶺南粵音·泛粵典編委會主辦。討論會基本情況如下：
+嶺南粵音第四屆泛粵線下交流會暨第一屆嶺南語言討論會（內部）（The 4th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 1st Forum on Languages in South China (Internal)，FoLiSC-1）由嶺南粵音·泛粵典編委會主辦。討論會基本情況如下：
 
 - 日期：2021 年 7 月 31 日（星期六）
 - 時間：下午 14 時 30 分至下午 17 時 15 分
@@ -66,4 +66,4 @@ sidebar: auto
 
 ### 4. 相關文件
 
-[程序表及論文摘要](https://github.com/JyutdictEB/FoSCL-Docs/raw/main/FoSCL-1%20Program%20and%20Abstracts.pdf)
+[程序表及論文摘要](https://github.com/JyutdictEB/FoLiSC-Docs/raw/main/FoLiSC-1%20Program%20and%20Abstracts.pdf)

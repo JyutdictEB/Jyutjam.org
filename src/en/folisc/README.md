@@ -2,15 +2,15 @@
 sidebar: auto
 ---
 
-# Forum on Southern China Language (FoSCL)
+# Forum on Languages in South China (FoLiSC)
 
-![FoSCL_logo](./foscl_logo.png)
+<!-- ![FoLiSC](./folisc_logo.png) -->
 
-## [NEW] FoSCL-2 Open Call for Papers
+## FoLiSC-2 Open Call for Papers
 
 ### 1. Introduction
 
-The 5th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 2nd Forum on Southern China Language (or abbreviated as FoSCL-2) will be organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
+The 5th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 2nd Forum on Languages in South China (or FoLiSC-2) will be organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
 
 - Date: July 22, 2022 (Friday) (Tentative, final dates may be subject to change)
 - Time: 9am - 5pm (Tentative, final timetable will be announced before the start)
@@ -25,7 +25,7 @@ We hope:
 
 ### 3. Topics
 
-Scholars from all over the world are welcome to participate in the discussion or to report on their research findings (including but not limited to phonology, phonology, morphology, syntax, semantics, typology, language acquisition, psycholinguistics, neurolinguistics, computational linguistics, corpus linguistics) related to Lingnan languages (e.g. Cantonese, Hakka, Min and even non-Chinese languages) or on their unpublished research progress, especially ongoing projects, preliminary studies, term papers, etc.
+Scholars from all over the world are welcome to participate in the discussion or to report on their research findings (including but not limited to phonetics, phonology, morphology, syntax, semantics, typology, language acquisition, psycholinguistics, neurolinguistics, computational linguistics, corpus linguistics) related to languages in South China (e.g. Yue, Hakka, Min and even ethnic languages) or on their unpublished research progress, especially ongoing projects, preliminary studies, term papers, etc.
 
 ### 4. Report Form
 
@@ -35,7 +35,7 @@ Cantonese, Mandarin or English are allowed as reporting languages.
 
 ### 5. Submission of Abstracts
 
-Please submit abstracts by mail **no later than 24:00 pm on July 10, 2022** with the subject line 'FoSCL-2' annotated:
+Please submit abstracts by mail **no later than 24:00 pm on July 10, 2022** with the subject line 'FoLiSC-2' annotated:
 
 - jyutjam@tutanota.com
 
@@ -43,11 +43,11 @@ Abstracts should not exceed one A4 page and should be submitted anonymously, wit
 
 The results of the abstract assessment will be announced by July 15, 2022.
 
-## FoSCL-1 Introduction
+## FoLiSC-1 Introduction
 
 ### 1. Introduction
 
-The 4th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 1st Forum on Southern China Language (Internal) (or abbreviated as FoSCL-1) was organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
+The 4th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 1st Forum on Languages in South China (Internal) (or abbreviated as FoLiSC-1) was organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
 
 - Date: July 31, 2021 (Saturday)
 - Time: 14:30 pm to 17:15 pm
@@ -66,7 +66,7 @@ This forum is a round-table discussion, with each report lasting no more than 30
 
 ### 4. Related documents
 
-[Program and Abstracts](https://github.com/JyutdictEB/FoSCL-Docs/raw/main/FoSCL-1%20Program%20and%20Abstracts.pdf)
+[Program and Abstracts](https://github.com/JyutdictEB/FoLiSC-Docs/raw/main/FoLiSC-1%20Program%20and%20Abstracts.pdf)
 
 ---
 
