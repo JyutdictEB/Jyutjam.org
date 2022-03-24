@@ -4,7 +4,7 @@ module.exports = {
    */
    locales: {
     '/': {
-      lang: 'zh-yue-hant',
+      lang: 'zh-hant',
       title: '嶺南粵音',
       description: '粵語研究愛好者網上社團'
     },
