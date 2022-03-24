@@ -7,8 +7,8 @@ For the English version, please go to [jyutjam.org/en](https://jyutjam.org/en/)
 本站採用 [VuePress 1.x](https://github.com/vuejs/vuepress) 搭建，開發之前須安裝 [Node.js 10](https://nodejs.org/)（含）以上版本，我哋而家推薦用 [Node.js 14](https://nodejs.org/download/release/latest-v14.x/)。<br/>
 This site is powered by [VuePress 1.x](https://github.com/vuejs/vuepress). Please install [Node.js 10](https://nodejs.org/) or above before development, we now recommend [Node.js 14](https://nodejs.org/download/release/latest-v14.x/).
 
-裝完 Node.js 之後，建議安裝並使用 yarn 來裝項目嘅依賴包：<br/>
-After installing Node.js, it is recommended to install yarn for the dependency installation:
+裝完 Node.js 之後，建議安裝並使用 [yarn](https://classic.yarnpkg.com/lang/en/docs/install) 來裝項目嘅依賴包：<br/>
+After installing Node.js, it is recommended to install [yarn](https://classic.yarnpkg.com/lang/en/docs/install) for the dependency installation:
 
 ```bash
 npm install -g yarn
