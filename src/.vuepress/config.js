@@ -134,7 +134,7 @@ module.exports = {
                 link: '/en/folisc/'
               },
               {
-                text: 'Pan-Cantonese offline meeting',
+                text: 'Pan-Cantonese Offline Meeting',
                 link: '/en/pan-cantonese-offline-meeting/'
               },
             ]

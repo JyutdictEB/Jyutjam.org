@@ -20,7 +20,7 @@ The 5th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 2nd Forum on L
 
 We hope:
 
-1. To provide a relatively formal platform for the exchange of Lingnaam Jyutjam through annual academic sharing and discussion before (or after) the regular *[Pan-Cantonese Offline Meeting](/en/pan-cantonese-offline-meeting/)*.
+1. To provide a relatively formal platform for the exchange of *Lingnaam Jyutjam* through annual academic sharing and discussion before (or after) the regular *[Pan-Cantonese Offline Meeting](/en/pan-cantonese-offline-meeting/)*.
 2. To incubate more achievements through regular exchanges.
 
 ### 3. Topics
@@ -47,7 +47,7 @@ The results of the abstract assessment will be announced by July 15, 2022.
 
 ### 1. Introduction
 
-The 4th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 1st Forum on Languages in South China (Internal) (or abbreviated as FoLiSC-1) was organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
+The 4th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 1st Forum on Languages in South China (Internal) (or FoLiSC-1) was organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
 
 - Date: July 31, 2021 (Saturday)
 - Time: 14:30 pm to 17:15 pm
@@ -57,7 +57,7 @@ The 4th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 1st Forum on L
 
 We hope:
 
-1. To provide a relatively formal platform for the exchange of Lingnaam Jyutjam through annual academic sharing and discussion before (or after) the regular *[Pan-Cantonese Offline Meeting](/en/pan-cantonese-offline-meeting/)*.
+1. To provide a relatively formal platform for the exchange of *Lingnaam Jyutjam* through annual academic sharing and discussion before (or after) the regular *[Pan-Cantonese Offline Meeting](/en/pan-cantonese-offline-meeting/)*.
 2. To incubate more achievements through regular exchanges.
 
 ### 3. Report Form
