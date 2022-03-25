@@ -31,7 +31,7 @@ yarn dev
 ```
 
 搞掂之後 Commit & Push 上來就得！<br/>
-Once that's done, Commit & Push is on!
+Once that's done, just Commit & Push!
 
 若果你唔係我哋 JyutdictEB 嘅成員，你都可以創建 Pull Requests 來幫手改嘢，或者直接喺 Issues 度提意見。<br/>
 If you are not a member of our JyutdictEB team, you can also create Pull Requests to help with changes, or comment directly in Issues.
