@@ -4,7 +4,7 @@ sidebar: auto
 
 # 嶺南語言討論會（FoLiSC）
 
-<!-- ![FoLiSC](./folisc_logo.png) -->
+![FoLiSC](./folisc_logo.png)
 
 ## FoLiSC-2 公開徵稿啓事
 
@@ -66,4 +66,4 @@ sidebar: auto
 
 ### 4. 相關文件
 
-[程序表及論文摘要](https://github.com/JyutdictEB/FoLiSC-Docs/raw/main/FoLiSC-1%20Program%20and%20Abstracts.pdf)
+[FoLiSC-1 程序表及論文摘要](https://github.com/JyutdictEB/FoLiSC-Docs/raw/main/FoLiSC-1/FoLiSC-1_Program_and_Abstracts.pdf)

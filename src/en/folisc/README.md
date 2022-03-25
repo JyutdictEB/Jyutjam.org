@@ -4,7 +4,7 @@ sidebar: auto
 
 # Forum on Languages in South China (FoLiSC)
 
-<!-- ![FoLiSC](./folisc_logo.png) -->
+![FoLiSC](./folisc_logo.png)
 
 ## FoLiSC-2 Open Call for Papers
 
@@ -66,7 +66,7 @@ This forum is a round-table discussion, with each report lasting no more than 30
 
 ### 4. Related documents
 
-[Program and Abstracts](https://github.com/JyutdictEB/FoLiSC-Docs/raw/main/FoLiSC-1%20Program%20and%20Abstracts.pdf)
+[FoLiSC-1 Program and Abstracts](https://github.com/JyutdictEB/FoLiSC-Docs/raw/main/FoLiSC-1/FoLiSC-1_Program_and_Abstracts.pdf)
 
 ---
 
