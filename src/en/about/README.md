@@ -31,12 +31,12 @@ In the date order of foundation:
     - Jyutdict Editorial Board
         - [Jyutdict Editorial Board IT Workgroup](https://github.com/JyutdictEB)
     - Feedback Group of Jyutdict
-    - Yuzhou（鬱州） Sub-group
-    - Xunzhou（潯州） Sub-group
-    - Qinzhou Sub-group
+    - 鬱州 *Wat1zau1* Sub-group
+    - 潯州 *Tham4zhau1* Sub-group
+    - 欽州 *Ham1zau1* Sub-group
     - Academic Presentation Preparation Group
-    - Shuangzhou（瀧州） Sub-group
-    - Dongguan-Shenzhen Sub-group
+    - 瀧州 *Song1zau1* Sub-group
+    - 莞深 *Gun2-Sam1* (Dongguan-Shenzhen) Sub-group
 
 ## 3. Contact Us
 
