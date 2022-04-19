@@ -42,5 +42,7 @@ sidebar: auto
 ## 3. 聯繫方式
 
 - [嶺南粵音 Bilibili 平臺](https://space.bilibili.com/410568594)私信
-- 郵箱：jyutjam@tutanota.com
+- 郵箱：
+    - jyutjam@tutanota.com（用於收信及發信）
+    - *jyutjam@gmail.com*（僅用於發信，**請勿**向該地址發送郵件）
 - 泛粵典反饋組（QQ 羣）：837607356
