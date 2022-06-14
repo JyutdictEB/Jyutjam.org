@@ -14,9 +14,9 @@ Update Description:
 
 - Allow use of Retrieval Pronunciation
 
-- Optimisation of the display of 通用字表:
+- Optimisation of the display of 通用字表 *Tung1jung6 Zi6biu2*:
 
-    - Colouring of regions and pronunciations
+    - Colouring of locations and pronunciations
 
     - Filtering of locations
 
