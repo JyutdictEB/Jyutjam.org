@@ -5,7 +5,7 @@ sidebar: auto
 # About Us
 ## 1. About Lingnaam Jyutjam
 
-*Lingnaam Jyutjam* was founded in 2017, initially as a group on QQ by fellows who shared a common interest of [Yue Language](https://en.wikipedia.org/wiki/Yue_Chinese), with the original intention to build a platform for Yue studies lovers.
+*Lingnaam Jyutjam* (literally "Phones of Yue Language in Lingnan") was founded in 2017, initially as a group on QQ by fellows who shared a common interest of [Yue Language](https://en.wikipedia.org/wiki/Yue_Chinese), with the original intention to build a platform for Yue studies lovers.
 
 In the summer of 2018, *Jyutdict* was prepared for construction and another group *Jyutdict Editorial Board* was subsequently established. In this case, the key members of *Lingnaam Jyutjam* could be defined as those in the group *Jyutdict Editorial Board* to contribute to the compilation of *Jyutdict* and furthermore, to the video production on *Lingnaam Jyutjam Bilibili Account* to a certain extent.
 
