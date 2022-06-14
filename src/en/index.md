@@ -6,7 +6,7 @@ actionText: About Us →
 actionLink: /en/about/
 xfeatures:
 - title: Jyutdict Android
-  details: An online dictionary platform for Pan-Cantonese words including pronunciations and meanings
+  details: A dictionary app for Pan-Cantonese words including pronunciations and meanings
   link: /en/jyutdict-android/
   target: ''
 - title: Our Bilibili
