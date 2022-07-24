@@ -5,20 +5,20 @@ sidebar: auto
 # About Us
 ## 1. About Lingnaam Jyutjam
 
-*Lingnaam Jyutjam* was founded in 2017, initially as a group on QQ by fellows who shared a common interest of [Yue Language](https://en.wikipedia.org/wiki/Yue_Chinese), with the original intention to build a platform for Yue studies lovers.
+*Lingnaam Jyutjam 嶺南粵音* (literally "Phones of Yue Language in Lingnan") was founded in 2017, initially as a QQ group by fellows who shared a common interest of [Yue language](https://en.wikipedia.org/wiki/Yue_Chinese), with the original intention to build a platform for Yue studies lovers.
 
-In the summer of 2018, *Jyutdict* was prepared for construction and another group *Jyutdict Editorial Board* was subsequently established. In this case, the key members of *Lingnaam Jyutjam* could be defined as those in the group *Jyutdict Editorial Board* to contribute to the compilation of *Jyutdict* and furthermore, to the video production on *Lingnaam Jyutjam Bilibili Account* to a certain extent.
+In the summer of 2018, *Jyutdict 泛粤典* was prepared for construction and another group *Jyutdict Editorial Board* was subsequently established. In this case, the key members of *Lingnaam Jyutjam* could be defined as those in the group *Jyutdict Editorial Board* to contribute to the compilation of *Jyutdict* and furthermore, to the video production on *Lingnaam Jyutjam Bilibili Account* to a certain extent.
 
 At present (2021), the key members of *Lingnaam Jyutjam* are mainly involved in the following subprojects (not for profit):
 
 - Compilation and building of an online dictionary platform for Pan-Cantonese words including pronunciations and meanings: *[Jyutdict](/en/jyutdict-android/)*
 - Videos making of fun facts about Yue: released on *[Bilibili](https://space.bilibili.com/410568594)*
 - Research on the phonetics, phonology and romanization schemes of Yue varieties and the design of *[Jyutping++ (J++)](/en/j++/)*
-- A collection of Yue Language resources from all over the world
+- Collection of Yue language resources from all over the world
 
 We have been organising our annual [offline meeting](/en/pan-cantonese-offline-meeting/) and [academic forum](/en/folisc/), and [FoLiSC-2](/en/folisc/#folisc-2-open-call-for-papers) in July this year is now open for submissions.
 
-Special Note: As of August 4, 2021, *Lingnaam Jyutjam Association* has never collaborated with any other commercial or non-commercial organizations, nor has it issued any donation requests, except for [ONE video](https://www.bilibili.com/video/BV1ji4y1L7W6) with *Dingding Hou Zeng 叮叮好正* on Bilibili. Please refer to official information (e.g. [Trend on *Bilibili*](https://space.bilibili.com/410568594/dynamic) or this website) to avoid being deceived.
+Special Note: As of June 14, 2022, *Lingnaam Jyutjam Association* has never collaborated with any other commercial or non-commercial organizations, nor has it issued any donation requests, except for [ONE video](https://www.bilibili.com/video/BV1ji4y1L7W6) with *Dingding Hou Zeng 叮叮好正* on Bilibili. Please refer to official information (e.g. [Trend on *Bilibili*](https://space.bilibili.com/410568594/dynamic) or this website) to avoid being deceived.
 
 ## 2. Structure of the Association
 
@@ -42,13 +42,11 @@ In the date order of foundation:
 
 - [Private messages on Bilibili](https://space.bilibili.com/410568594)
 - Email:
-    - jyutjam@tutanota.com (For receiving and sending mail)
-    - *jyutjam@gmail.com* (For sending mail only, **Please do not** send mail to this box)
+    - jyutjam@tutanota.com (For receiving and sending email)
+    - *jyutjam@gmail.com* (For sending mail **ONLY**, please **DO NOT** send email to this box)
 - Feedback Group of Jyutdict (QQ Group): 837607356
 
 ---
-
-This page is under construction
 
 This page may not be updated in time, please refer to the Cantonese version.
 

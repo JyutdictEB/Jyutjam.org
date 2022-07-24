@@ -4,7 +4,21 @@ sidebar: auto
 
 # Jyutdict Android
 
-Current version: 0.5.0
+Current version: v0.6.5/220609
+
+Update Description:
+
+- Fixes: retain original search results when switching screen orientation or switching themes
+
+- Freely copy word content
+
+- Allow use of Retrieval Pronunciation
+
+- Optimisation of the display of 通用字表 *Tung1jung6 Zi6biu2*:
+
+    - Colouring of locations and pronunciations
+
+    - Filtering of locations
 
 This Android application is an [open source project](https://github.com/JyutdictEB/Jyutdict-Android), issues and stars are welcome.
 

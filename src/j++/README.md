@@ -4,7 +4,7 @@ sidebar: auto
 
 # 擴展粵拼方案（J++）
 
-本文曾在 2021年 6 月 26 日 香港語言學學會 · [第二十一屆粵語討論會 (WOC-21)](https://www.lshk.org/workshop-on-cantonese-woc) 報告
+本文曾在 2021年 6 月 26 日 香港語言學學會 · [第二十一屆粵語討論會（WOC-21）](https://www.lshk.org/workshop-on-cantonese-woc) 報告
 
 報告人：[@以成](https://www.zhihu.com/people/huang-jun-xin-74)，指南 [@Zenam](https://www.zhihu.com/people/zenam)
 
@@ -14,90 +14,90 @@ sidebar: auto
 
 ## 2. 內容回顧
 
-![img](https://pic3.zhimg.com/80/v2-b4f1d626274f910c2aedfcd63ae040e6_1440w.jpg)
+[![XdW8mQ.md.jpg](https://s1.ax1x.com/2022/06/05/XdW8mQ.md.jpg)](https://imgtu.com/i/XdW8mQ)
 
-![img](https://pic2.zhimg.com/80/v2-8a73b2930f2c647b8934714173ecceb9_1440w.jpg)
+[![XdWtkn.md.jpg](https://s1.ax1x.com/2022/06/05/XdWtkn.md.jpg)](https://imgtu.com/i/XdWtkn)
 
-![img](https://pic1.zhimg.com/80/v2-43048d6f478ef1fd3ce5a9716254de50_1440w.jpg)
+[![XdW1Og.md.jpg](https://s1.ax1x.com/2022/06/05/XdW1Og.md.jpg)](https://imgtu.com/i/XdW1Og)
 
-![img](https://pic4.zhimg.com/80/v2-9bc9e1b8029ef981c012286c599179c7_1440w.jpg)
+[![XdWGwj.md.jpg](https://s1.ax1x.com/2022/06/05/XdWGwj.md.jpg)](https://imgtu.com/i/XdWGwj)
 
-![img](https://pic1.zhimg.com/80/v2-97b1fdd20132f1ef65f754d710c3edb0_1440w.jpg)
+[![XdWJTs.md.jpg](https://s1.ax1x.com/2022/06/05/XdWJTs.md.jpg)](https://imgtu.com/i/XdWJTs)
 
-![img](https://pic3.zhimg.com/80/v2-fbee254737b6c8356b92e45bc80f2966_1440w.jpg)
+[![XdWNYq.md.jpg](https://s1.ax1x.com/2022/06/05/XdWNYq.md.jpg)](https://imgtu.com/i/XdWNYq)
 
-![img](https://pic3.zhimg.com/80/v2-3d3492e6fa87e64604cdb275f07c2afa_1440w.jpg)
+[![XdWUf0.md.jpg](https://s1.ax1x.com/2022/06/05/XdWUf0.md.jpg)](https://imgtu.com/i/XdWUf0)
 
-![img](https://pic1.zhimg.com/80/v2-ce43ed15436f59eb3aeccbe69978c538_1440w.jpg)
+[![XdWwlT.md.jpg](https://s1.ax1x.com/2022/06/05/XdWwlT.md.jpg)](https://imgtu.com/i/XdWwlT)
 
-![img](https://pic2.zhimg.com/80/v2-2114a7bd902765e1b1cc079bb4d32fd5_1440w.jpg)
+[![XdWdpV.md.jpg](https://s1.ax1x.com/2022/06/05/XdWdpV.md.jpg)](https://imgtu.com/i/XdWdpV)
 
-![img](https://pic4.zhimg.com/80/v2-70be3fdd0284afa1db47ea6275477a9b_1440w.jpg)
+[![XdW06U.md.jpg](https://s1.ax1x.com/2022/06/05/XdW06U.md.jpg)](https://imgtu.com/i/XdW06U)
 
-![img](https://pic4.zhimg.com/80/v2-ad42c2fcaa78bf32339a614c2fd177e7_1440w.jpg)
+[![XdWBXF.md.jpg](https://s1.ax1x.com/2022/06/05/XdWBXF.md.jpg)](https://imgtu.com/i/XdWBXF)
 
-![img](https://pic2.zhimg.com/80/v2-366afc66a2599242ed76195723f317c9_1440w.jpg)
+[![XdWs0J.md.jpg](https://s1.ax1x.com/2022/06/05/XdWs0J.md.jpg)](https://imgtu.com/i/XdWs0J)
 
-![img](https://pic4.zhimg.com/80/v2-d2cef2ac7c9f57ce713ca1f888b0e51b_1440w.jpg)
+[![XdWrm4.md.jpg](https://s1.ax1x.com/2022/06/05/XdWrm4.md.jpg)](https://imgtu.com/i/XdWrm4)
 
-![img](https://pic4.zhimg.com/80/v2-aa9f07af0b56af969d9899d726b02d0b_1440w.jpg)
+[![XdWy79.md.jpg](https://s1.ax1x.com/2022/06/05/XdWy79.md.jpg)](https://imgtu.com/i/XdWy79)
 
-![img](https://pic3.zhimg.com/80/v2-06612fe1a5a9d75d3ffa1b5e6067ec7e_1440w.jpg)
+[![XdWckR.md.jpg](https://s1.ax1x.com/2022/06/05/XdWckR.md.jpg)](https://imgtu.com/i/XdWckR)
 
-![img](https://pic2.zhimg.com/80/v2-56b881b51024a9fa65e76769766468dd_1440w.jpg)
+[![XdWgt1.md.jpg](https://s1.ax1x.com/2022/06/05/XdWgt1.md.jpg)](https://imgtu.com/i/XdWgt1)
 
-![img](https://pic2.zhimg.com/80/v2-1f0188a0f679ff23a1f7caa4f7bb4059_1440w.jpg)
+[![XdW2fx.md.jpg](https://s1.ax1x.com/2022/06/05/XdW2fx.md.jpg)](https://imgtu.com/i/XdW2fx)
 
-![img](https://pic3.zhimg.com/80/v2-7662346db98e47b5d3da1d008a69277e_1440w.jpg)
+[![XdWWp6.md.jpg](https://s1.ax1x.com/2022/06/05/XdWWp6.md.jpg)](https://imgtu.com/i/XdWWp6)
 
-![img](https://pic4.zhimg.com/80/v2-93936876d08987da3a0b59decdbbf907_1440w.jpg)
+[![XdWf1K.md.jpg](https://s1.ax1x.com/2022/06/05/XdWf1K.md.jpg)](https://imgtu.com/i/XdWf1K)
 
-![img](https://pic2.zhimg.com/80/v2-713c25dee1f62a076e5abbeaf008d055_1440w.jpg)
+[![XdWh6O.md.jpg](https://s1.ax1x.com/2022/06/05/XdWh6O.md.jpg)](https://imgtu.com/i/XdWh6O)
 
-![img](https://pic4.zhimg.com/80/v2-deb095d8c7e31033e6f4a70899488cfb_1440w.jpg)
+[![XdW4XD.md.jpg](https://s1.ax1x.com/2022/06/05/XdW4XD.md.jpg)](https://imgtu.com/i/XdW4XD)
 
-![img](https://pic4.zhimg.com/80/v2-5d93a4ee33a3f2eda5a61dbf6d6aacf7_1440w.jpg)
+[![XdWIne.md.jpg](https://s1.ax1x.com/2022/06/05/XdWIne.md.jpg)](https://imgtu.com/i/XdWIne)
 
-![img](https://pic1.zhimg.com/80/v2-599bc7d81d6f2d661ea828f554bf8c04_1440w.jpg)
+[![XdWo0H.md.jpg](https://s1.ax1x.com/2022/06/05/XdWo0H.md.jpg)](https://imgtu.com/i/XdWo0H)
 
-![img](https://pic3.zhimg.com/80/v2-2585792f9635dc4b252a40bb1aa1aaee_1440w.jpg)
+[![XdWT7d.md.jpg](https://s1.ax1x.com/2022/06/05/XdWT7d.md.jpg)](https://imgtu.com/i/XdWT7d)
 
-![img](https://pic2.zhimg.com/80/v2-4a2e951e30a6098ce562d37978e04665_1440w.jpg)
+[![XdWHAA.md.jpg](https://s1.ax1x.com/2022/06/05/XdWHAA.md.jpg)](https://imgtu.com/i/XdWHAA)
 
-![img](https://pic1.zhimg.com/80/v2-94753ec591805fd719599336b244e228_1440w.jpg)
+[![XdWbtI.md.jpg](https://s1.ax1x.com/2022/06/05/XdWbtI.md.jpg)](https://imgtu.com/i/XdWbtI)
 
-![img](https://pic2.zhimg.com/80/v2-6f6da5a985071abc860fde9acd579a15_1440w.jpg)
+[![XdWqht.md.jpg](https://s1.ax1x.com/2022/06/05/XdWqht.md.jpg)](https://imgtu.com/i/XdWqht)
 
-![img](https://pic2.zhimg.com/80/v2-750e6c8721748fb16252237a943b5245_1440w.jpg)
+[![XdWO9P.md.jpg](https://s1.ax1x.com/2022/06/05/XdWO9P.md.jpg)](https://imgtu.com/i/XdWO9P)
 
-![img](https://pic4.zhimg.com/80/v2-1da3d85eef758749f459eb6952fdbc37_1440w.jpg)
+[![XdWX1f.md.jpg](https://s1.ax1x.com/2022/06/05/XdWX1f.md.jpg)](https://imgtu.com/i/XdWX1f)
 
-![img](https://pic1.zhimg.com/80/v2-7abf77ce069069be72738921bfcdafe8_1440w.jpg)
+[![XdWjc8.md.jpg](https://s1.ax1x.com/2022/06/05/XdWjc8.md.jpg)](https://imgtu.com/i/XdWjc8)
 
-![img](https://pic1.zhimg.com/80/v2-df19b28374d379cb2644d38eb5428170_1440w.jpg)
+[![XdWzng.md.jpg](https://s1.ax1x.com/2022/06/05/XdWzng.md.jpg)](https://imgtu.com/i/XdWzng)
 
-![img](https://pic4.zhimg.com/80/v2-7af09f04f454a91085da0f62e2d50f23_1440w.jpg)
+[![XdWvjS.md.jpg](https://s1.ax1x.com/2022/06/05/XdWvjS.md.jpg)](https://imgtu.com/i/XdWvjS)
 
-![img](https://pic4.zhimg.com/80/v2-397078da5c83734a67317727436e3b7b_1440w.jpg)
+[![XdIeR1.md.jpg](https://s1.ax1x.com/2022/06/05/XdIeR1.md.jpg)](https://imgtu.com/i/XdIeR1)
 
-![img](https://pic2.zhimg.com/80/v2-caeb432b320e0c447ea40e4d6e1919d1_1440w.jpg)
+[![XdImxx.md.jpg](https://s1.ax1x.com/2022/06/05/XdImxx.md.jpg)](https://imgtu.com/i/XdImxx)
 
-![img](https://pic1.zhimg.com/80/v2-4be35ec85148fc83cf5c74f16c6bfd40_1440w.jpg)
+[![XdIZGR.md.jpg](https://s1.ax1x.com/2022/06/05/XdIZGR.md.jpg)](https://imgtu.com/i/XdIZGR)
 
-![img](https://pic1.zhimg.com/80/v2-9c367d676de166e1faa3dfe3a861d8a8_1440w.jpg)
+[![XdIKsK.md.jpg](https://s1.ax1x.com/2022/06/05/XdIKsK.md.jpg)](https://imgtu.com/i/XdIKsK)
 
-![img](https://pic2.zhimg.com/80/v2-dbad62c1a24ab766b1cd75fe197333a1_1440w.jpg)
+[![XdIuM6.md.jpg](https://s1.ax1x.com/2022/06/05/XdIuM6.md.jpg)](https://imgtu.com/i/XdIuM6)
 
-![img](https://pic3.zhimg.com/80/v2-3af77bc8b05db2524564aa440163aa8e_1440w.jpg)
+[![XdIlZD.md.jpg](https://s1.ax1x.com/2022/06/05/XdIlZD.md.jpg)](https://imgtu.com/i/XdIlZD)
 
-![img](https://pic4.zhimg.com/80/v2-bb82990fb54e3c5abd29b8cb52309797_1440w.jpg)
+[![XdIMqO.md.jpg](https://s1.ax1x.com/2022/06/05/XdIMqO.md.jpg)](https://imgtu.com/i/XdIMqO)
 
-![img](https://pic1.zhimg.com/80/v2-33d800c13d963de076e9c6af75069d40_1440w.jpg)
+[![XdI3IH.md.jpg](https://s1.ax1x.com/2022/06/05/XdI3IH.md.jpg)](https://imgtu.com/i/XdI3IH)
 
-![img](https://pic4.zhimg.com/80/v2-7338d5a4b90c7056126b791fd0c7b583_1440w.jpg)
+[![XdI1de.md.jpg](https://s1.ax1x.com/2022/06/05/XdI1de.md.jpg)](https://imgtu.com/i/XdI1de)
 
-![img](https://pic4.zhimg.com/80/v2-1dc24a7476fb4542139d832cd18e680b_1440w.jpg)
+[![XdIGid.md.jpg](https://s1.ax1x.com/2022/06/05/XdIGid.md.jpg)](https://imgtu.com/i/XdIGid)
 
-![img](https://pic3.zhimg.com/80/v2-b78a90f4073123f2669067dd6dded1d6_1440w.jpg)
+[![XdIJJA.md.jpg](https://s1.ax1x.com/2022/06/05/XdIJJA.md.jpg)](https://imgtu.com/i/XdIJJA)
 
-![img](https://pic1.zhimg.com/80/v2-75d4c54e6f22a135407e285e08e613c4_1440w.jpg)
+[![XdIYRI.md.jpg](https://s1.ax1x.com/2022/06/05/XdIYRI.md.jpg)](https://imgtu.com/i/XdIYRI)
