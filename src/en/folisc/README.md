@@ -6,15 +6,15 @@ sidebar: auto
 
 ![FoLiSC](./folisc_logo.png)
 
-## FoLiSC-2 Open Call for Papers
+## FoLiSC-2 (July, 2022)
 
 ### 1. Introduction
 
 The 5th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 2nd Forum on Languages in South China (or FoLiSC-2) will be organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
 
-- Date: July 22, 2022 (Friday) (Tentative, final dates may be subject to change)
-- Time: 9am - 5pm (Tentative, final timetable will be announced before the start)
-- Venue: Online Zoom Meeting
+- Date: July 24, 2022 (Sunday)
+- Time: 14:30pm - 17:35pm (UTC+8)
+- Venue: Online Zoom Meeting (For room number and passcode, please refer to the attached *Program and Abstracts*)
 
 ### 2. Objectives
 
@@ -33,17 +33,11 @@ This forum is a round-table discussion, with each report lasting no more than 30
 
 Cantonese, Mandarin or English are allowed as reporting languages.
 
-### 5. Submission of Abstracts
+### 5. Related documents
 
-Please submit abstracts by mail **no later than 24:00 pm on July 10, 2022** with the subject line 'FoLiSC-2' annotated:
+[FoLiSC-2 Program and Abstracts](https://www.kdocs.cn/l/ckkSaTmWZTCw)
 
-- jyutjam@tutanota.com
-
-Abstracts should not exceed one A4 page and should be submitted anonymously, without personal information such as name or institution. Abstracts can be written in Cantonese, modern Chinese (including Hong Kong Chinese) or English.
-
-The results of the abstract assessment will be announced by July 15, 2022.
-
-## FoLiSC-1 Introduction
+## FoLiSC-1 (July, 2021)
 
 ### 1. Introduction
 
