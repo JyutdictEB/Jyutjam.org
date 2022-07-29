@@ -35,7 +35,7 @@ sidebar: auto
 
 ### 5. 相關文件
 
-[FoLiSC-2 程序表及論文摘要](https://www.kdocs.cn/l/ckkSaTmWZTCw)
+FoLiSC-2 程序表及論文摘要：[在線瀏覽](https://www.kdocs.cn/l/ckkSaTmWZTCw) | [GitHub存檔](https://github.com/JyutdictEB/FoLiSC-Docs/raw/main/FoLiSC-2/FoLiSC-2_Program_and_Abstracts.pdf)
 
 ## FoLiSC-1（2021.7）
 
