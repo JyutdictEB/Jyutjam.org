@@ -8,6 +8,8 @@ sidebar: auto
 
 報告人：[@以成](https://www.zhihu.com/people/huang-jun-xin-74)，指南 [@Zenam](https://www.zhihu.com/people/zenam)
 
+[點此瀏覽最新Jyutping++方案全表](https://docs.google.com/spreadsheets/d/19puWUoeYGflSuJj7mNm7maTX5bA2tkjNDESaMTBwPaw/edit?usp=sharing)
+
 ## 1. 摘要
 
 香港語言學學會粵語拼音方案（以下略稱「粵拼」）係目前廣受認可嘅粵語拉丁拼音方案，可以相對科學、標準噉表示香港、廣州粵語嘅語音系統。不過，粵語嘅其它方言存在部分不見於香港、廣州粵語嘅音素，現有粵拼系統難以拼寫。本文整理咗欽廉片、勾漏片、邕潯片、四邑片等粵語片區嘅主要方言點，喺原有粵拼嘅基礎上擴展，提出一套理論上適配所有粵語方言嘅擴展粵拼方案（英文：Jyutping++，以下略稱「J++」）。本文提出咗四個原則：不修改原有粵拼方案；全粵方案統一，各地微調；兼顧歷時性同共時性；符號不超出 ASCII 字符集。

@@ -8,6 +8,8 @@ This paper was previously presented at The Linguistics Society of Hong Kong - [2
 
 Reported by: [@以成](https://www.zhihu.com/people/huang-jun-xin-74)，指南 [@Zenam](https://www.zhihu.com/people/zenam)
 
+[Click here for the up-to-date Jyutping++ Scheme](https://docs.google.com/spreadsheets/d/19puWUoeYGflSuJj7mNm7maTX5bA2tkjNDESaMTBwPaw/edit?usp=sharing)
+
 ## 1. Abstract
 
 The Linguistic Society of Hong Kong Cantonese Romanization Scheme (hereafter as "Jyutping") is a widely accepted Cantonese romanization scheme that can represent the phonology system of Hong Kong and Guangzhou Yue in a relatively scientific and standardized manner. However, other dialects of Yue language have some phonemes that are not found in Hong Kong and Guangzhou Yue, and are hard to spell with the existing Cantonese romanization scheme. In this paper, we have compiled the major dialects of Qinlian, Goulou, Yongxun and Siyi Yue, and expanded them on the basis of the original Jyutping scheme, proposing an Extended Jyutping Scheme (Jyutping++, hereafter as "J++") that is theoretically suitable for all Yue dialects. This paper proposes four principles: no modification of the original Jyutping scheme; a unified scheme for the whole Yue language with local fine-tuning; consideration of both diachrony and synchrony; and keeping the symbols within the ASCII character set.
