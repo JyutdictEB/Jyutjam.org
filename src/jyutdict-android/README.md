@@ -4,13 +4,11 @@ sidebar: auto
 
 # 泛粵典安卓版
 
-當前版本：v0.6.6/220811
+當前版本：v0.6.7/230102
 
 更新說明：
 
-- 修復：查音崩潰
-
-- 改進數處顯示
+- 由於內地使用 HTTP 的域名被污染，現全面使用 HTTPS（原使用 HTTP 部分與上行傳輸無關）
 
 本安卓應用爲[開源項目](https://github.com/JyutdictEB/Jyutdict-Android)，歡迎 issue 及 star。
 
@@ -19,8 +17,6 @@ sidebar: auto
 - [藍奏雲](https://wwa.lanzoui.com/b010whhbe)（提取碼：7xg7）
 
 - [百度網盤](https://pan.baidu.com/s/1r7mo35tEwZ0zAjQHIacf8w)（提取碼：djms）
-
-- [天翼雲盤](https://cloud.189.cn/t/yA7FVnUzQZj2)
 
 - [GitHub Releases](https://github.com/JyutdictEB/Jyutdict-Android/releases)
 
