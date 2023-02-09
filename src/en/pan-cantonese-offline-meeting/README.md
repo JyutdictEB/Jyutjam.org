@@ -12,6 +12,7 @@ sidebar: auto
 - 2019 Hong Kong - Shenzhen
 - 2020 Shunde*
 - 2021 Jiangmen - Xinhui*
+- 2022 Duanzhou*
 
 *Note: Conducted in compliance with local COVID-19 outbreak prevention and control requirements.
 
