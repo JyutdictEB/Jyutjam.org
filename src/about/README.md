@@ -17,7 +17,7 @@ sidebar: auto
 - 研究各地粵語語音、音系及拼音方案，並設計「[擴展粵拼方案（J++）](/j++/)」
 - 收集各地粵語語言資源
 
-我哋每年循例會舉辦[交流會](/pan-cantonese-offline-meeting/)、[學術討論會](/folisc/)，來緊嘅係今年 7 月份嘅 [FoLiSC-2](/folisc/#folisc-2-公開徵稿啓事)，目前已經公開徵稿，敬請留意。
+我哋每年循例會舉辦[交流會](/pan-cantonese-offline-meeting/)、[學術討論會](/folisc/)。
 
 **特別注意：截至目前（2023 年 1 月 3 日）爲止，除咗同 Bilibili 平臺嘅「叮叮好正」合作過[一條片](https://www.bilibili.com/video/BV1ji4y1L7W6)之外，「嶺南粵音」從未同其它任何機構或者商業組織合作過，亦從未向外發佈過任何捐款請求。** 爲謹防受騙，請以官方消息爲準（如「[Bilibili 平臺動態](https://space.bilibili.com/410568594/dynamic)」或者本站）。
 
