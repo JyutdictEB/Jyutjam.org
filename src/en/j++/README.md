@@ -4,7 +4,7 @@ sidebar: auto
 
 # Extended Jyutping Scheme (Jyutping++, J++)
 
-This paper was previously presented at The Linguistics Society of Hong Kong - [21st Workshop on Cantonese (WOC-21)](https://www.lshk.org/workshop-on-cantonese-woc) on 26 June 2021.
+This paper was previously presented at The Linguistics Society of Hong Kong - [21st Workshop on Cantonese (WOC-21)](https://lshk.org/events/woc/) on 26 June 2021.
 
 Reported by: [@以成](https://www.zhihu.com/people/huang-jun-xin-74)，指南 [@Zenam](https://www.zhihu.com/people/zenam)
 
