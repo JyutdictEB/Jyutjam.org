@@ -13,6 +13,7 @@ sidebar: auto
 - 2020 Shunde*
 - 2021 Jiangmen - Xinhui*
 - 2022 Duanzhou*
+- 2023 Beihai - Hepu
 
 *Note: Conducted in compliance with local COVID-19 outbreak prevention and control requirements.
 
