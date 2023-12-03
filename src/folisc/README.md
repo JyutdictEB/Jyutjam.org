@@ -35,7 +35,7 @@ sidebar: auto
 
 ### 5. 相關文件
 
-FoLiSC-3 程序表及論文摘要：[在線瀏覽](https://kdocs.cn/l/cjboPubY84EQ)
+FoLiSC-3 程序表及論文摘要：[在線瀏覽](https://kdocs.cn/l/cjboPubY84EQ) | [GitHub存檔](https://github.com/JyutdictEB/FoLiSC-Docs/raw/main/FoLiSC-3/FoLiSC-3_Program_and_Abstracts.pdf)
 
 ## FoLiSC-2（2022.7）
 

@@ -35,7 +35,7 @@ The report language is allowed and limited to Cantonese, Mandarin, or English.
 
 ### 5. Related documents
 
-FoLiSC-3 Program and Abstracts: [View online](https://kdocs.cn/l/cjboPubY84EQ)
+FoLiSC-3 Program and Abstracts: [View online](https://kdocs.cn/l/cjboPubY84EQ) | [GitHub archive](https://github.com/JyutdictEB/FoLiSC-Docs/raw/main/FoLiSC-3/FoLiSC-3_Program_and_Abstracts.pdf)
 
 ## FoLiSC-2 (July, 2022)
 
