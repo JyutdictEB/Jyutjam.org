@@ -14,8 +14,8 @@ xfeatures:
   link: https://space.bilibili.com/410568594
   target: view_window
 - title: Contact Us
-  details: jyutjam@tutanota.com
-  link: 'mailto: jyutjam@tutanota.com'
+  details: info@jyutjam.org
+  link: 'mailto: info@jyutjam.org'
   target: view_window
 footer: 'By github.com/JyutdictEB | 2017-2023'
 ---
