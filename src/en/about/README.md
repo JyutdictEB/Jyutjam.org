@@ -43,7 +43,8 @@ In the date order of foundation:
 - [Private messages on Bilibili](https://space.bilibili.com/410568594)
 - Email:
     - jyutjam@tutanota.com (For receiving and sending email)
-    - *jyutjam@gmail.com* (For sending mail **ONLY**, please **DO NOT** send email to this box)
+    - info@jyutjam.org (For receiving email only, we will NOT use this address for sending email)
+    - *jyutjam@gmail.com* (For sending email **ONLY**, please **DO NOT** send email to this box)
 - Feedback Group of Jyutdict (QQ Group): 837607356
 
 ---
