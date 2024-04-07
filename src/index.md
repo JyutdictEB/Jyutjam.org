@@ -17,7 +17,7 @@ xfeatures:
   details: info@jyutjam.org
   link: 'mailto: info@jyutjam.org'
   target: view_window
-footer: 'By github.com/JyutdictEB | 2017-2023'
+footer: 'By github.com/JyutdictEB | 2017-2024'
 ---
 <div class="features">
   <div class="feature" v-for="feat in $page.frontmatter.xfeatures">
