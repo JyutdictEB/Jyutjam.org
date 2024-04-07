@@ -6,6 +6,41 @@ sidebar: auto
 
 ![FoLiSC](./folisc_logo.png)
 
+## [Call for Paper] FoLiSC-4 (July, 2024)
+
+### 1. Introduction
+
+The 7th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 4th Forum on Languages in South China (or FoLiSC-4) will be organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
+
+- Date: 27 July 2024 (Saturday) (Tentative)
+- Time: 1:00 PM to 5:00 PM (HKT, UTC+8) (Tentative)
+- Venue: Online Zoom meeting
+
+### 2. Objectives
+
+We hope to:
+
+1. Conduct annual academic sharing and discussions before (or after) the *[Pan-Cantonese Offline Meeting](/en/pan-cantonese-offline-meeting/)* to provide a more formal academic exchange platform for Lingnaam Jyutjam;
+2. Incubate more achievements through regular exchanges.
+
+### 3. Topics
+
+Welcome scholars worldwide to participate in discussions and present linguistic research findings related to languages in South China, such as Yue, Hakka, Min and even ethnic languages. These research findings may include but are not limited to phonetics, phonology, morphology, syntax, semantics, typology, language acquisition, psycho-linguistics, neurolinguistics, computational linguistics, and corpus linguistics. In addition, we welcome ongoing projects, preliminary research, and academic papers from current semesters that have not yet been published.
+
+### 4. Reporting Format
+
+The reporting format for this discussion will adopt a roundtable meeting approach, with each report not exceeding 30 minutes. For instance, the first 5 minutes are for a brief description and summary, and the remaining 25 minutes are for a detailed explanation of the content, during which the audience can ask questions and make comments at any time.
+
+The report language is allowed and limited to Cantonese, Mandarin, or English.
+
+### 5. Submission of Abstracts
+
+Please submit your abstract **NO later than 00:00 (midnight) of 11 July 2024 (HKT, UTC+8)**, via email to **jyutjam@tutanota.com** with the subject line containing "FoLiSC-4". 
+
+The abstract must be no longer than one page of A4 paper and should be submitted anonymously, **without any personal information** such as name or affiliation. You may write the abstract in Cantonese, Modern Mandarin Chinese (including Hong Kong Chinese), or English.
+
+The results of the abstract review will be announced by 20 July 2024.
+
 ## FoLiSC-3 (July, 2023)
 
 ### 1. Introduction
