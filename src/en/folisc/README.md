@@ -6,15 +6,15 @@ sidebar: auto
 
 ![FoLiSC](./folisc_logo.png)
 
-## [Call for Paper] FoLiSC-4 (July, 2024)
+## FoLiSC-4 (August, 2024)
 
 ### 1. Introduction
 
 The 7th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 4th Forum on Languages in South China (or FoLiSC-4) will be organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
 
-- Date: 27 July 2024 (Saturday) (Tentative)
-- Time: 1:00 PM to 5:00 PM (HKT, UTC+8) (Tentative)
-- Venue: Online Zoom meeting
+- Date: 10 August 2024 (Saturday)
+- Time: 13:20pm - 18:00pm (HKT, UTC+8)
+- Venue: Online Zoom meeting (For room number and passcode, please refer to the attached *Program and Abstracts* below)
 
 ### 2. Objectives
 
@@ -33,13 +33,9 @@ The reporting format for this discussion will adopt a roundtable meeting approac
 
 The report language is allowed and limited to Cantonese, Mandarin, or English.
 
-### 5. Submission of Abstracts
+### 5. Related documents
 
-Please submit your abstract **NO later than 00:00 (midnight) of 11 July 2024 (HKT, UTC+8)**, via email to **jyutjam@tutanota.com** with the subject line containing "FoLiSC-4". 
-
-The abstract must be no longer than one page of A4 paper and should be submitted anonymously, **without any personal information** such as name or affiliation. You may write the abstract in Cantonese, Modern Mandarin Chinese (including Hong Kong Chinese), or English.
-
-The results of the abstract review will be announced by 20 July 2024.
+FoLiSC-4 Program and Abstracts: [View online](https://kdocs.cn/l/csICMImuZjES)
 
 ## FoLiSC-3 (July, 2023)
 
