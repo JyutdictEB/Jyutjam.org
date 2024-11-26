@@ -14,6 +14,7 @@ sidebar: auto
 - 2021 Jiangmen - Xinhui*
 - 2022 Duanzhou*
 - 2023 Beihai - Hepu
+- 2024 Nanning
 
 *Note: Conducted in compliance with local COVID-19 outbreak prevention and control requirements.
 
