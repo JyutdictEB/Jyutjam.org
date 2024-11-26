@@ -35,7 +35,7 @@ sidebar: auto
 
 ### 5. 相關文件
 
-FoLiSC-4 程序表及論文摘要：[在線瀏覽](https://kdocs.cn/l/csICMImuZjES)
+FoLiSC-4 程序表及論文摘要：[在線瀏覽](https://kdocs.cn/l/csICMImuZjES) | [GitHub存檔](https://github.com/JyutdictEB/FoLiSC-Docs/raw/main/FoLiSC-4/FoLiSC-4_Program_and_Abstracts.pdf)
 
 ## FoLiSC-3（2023.7）
 
