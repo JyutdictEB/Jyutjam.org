@@ -6,6 +6,8 @@ sidebar: auto
 
 Lagarrue's GoT Cantonese Online Corpus Website: [got.jyutdict.org](https://got.jyutdict.org/)
 
+This website is an [open-source project](https://github.com/JyutdictEB/GoTCorpus). Issues, stars, and forks for building other online corpora are welcome.
+
 This paper was presented at the [27th International Conference on Yue Dialects](https://u.osu.edu/yue2023/) at Ohio State University on December 1, 2023 (Eastern Time). The related conference paper is published in *Buckeye East Asian Linguistics 9* (BEAL 9) by Ohio State University.
 
 Presenter: [@以成](https://www.zhihu.com/people/huang-jun-xin-74)
@@ -24,7 +26,7 @@ Preliminary linguistic findings (Lai, et al., 2023), such as the merging of rhym
 
 ## 2. Citation
 
-Welcome to cite this project! If the cited content is related to the preprocessing and corpus linguistics of this project, please cite the **supplementary study**; if it is related to the historical linguistics of this project, please cite the **main study**.
+Welcome to cite this project! If the cited content is related to the preprocessing and corpus linguistics of this project, please cite the **supplementary study**; if it is related to the historical linguistics of this project, please cite the **main study**; if it is related to the website code of this project, please cite the **GitHub repository**.
 
 ### 2.1 The supplementary study
 
@@ -45,3 +47,13 @@ MLA 8th:
 APA:
 
 > Lai, J., Wòng, P., Huang, J., & Ng, G.-O. (2023, July). The affiliation of Cantonese at the Sino-Vietnamese border in the late 19th century. *Current Research in Chinese Linguistics, 102*(2). https://doi.org/10.29499/CrCL.202307_102(2).0004
+
+### 2.3 GitHub repository
+
+MLA 8th:
+
+> Jyutdict Editorial Board IT Workgroup of Lingnaam Jyutjam. *Lagarrue's GoT Cantonese Online Corpus*. Version v0.1.0 Beta, GitHub, 24 Apr. 2024, https://github.com/JyutdictEB/GoTCorpus. Accessed [YOUR ACCESS DATE].
+
+APA:
+
+> Jyutdict Editorial Board IT Workgroup of Lingnaam Jyutjam. (2024, April 24). *Lagarrue's GoT Cantonese Online Corpus* (Version v0.1.0 Beta). GitHub. https://github.com/JyutdictEB/GoTCorpus
