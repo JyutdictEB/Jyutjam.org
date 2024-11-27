@@ -52,8 +52,8 @@ APA:
 
 MLA 8th:
 
-> Jyutdict Editorial Board IT Workgroup of Lingnaam Jyutjam. *Lagarrue's GoT Cantonese Online Corpus*. Version v0.1.0, GitHub, 24 Apr. 2024, https://github.com/JyutdictEB/GoTCorpus. Accessed [YOUR ACCESS DATE].
+> Jyutdict Editorial Board IT Workgroup of Lingnaam Jyutjam. *Lagarrue's GoT Cantonese Online Corpus*. Version v0.1.0, GitHub, 27 Nov. 2024, https://github.com/JyutdictEB/GoTCorpus. Accessed [YOUR ACCESS DATE].
 
 APA:
 
-> Jyutdict Editorial Board IT Workgroup of Lingnaam Jyutjam. (2024, April 24). *Lagarrue's GoT Cantonese Online Corpus* (Version v0.1.0). GitHub. https://github.com/JyutdictEB/GoTCorpus
+> Jyutdict Editorial Board IT Workgroup of Lingnaam Jyutjam. (2024, November 27). *Lagarrue's GoT Cantonese Online Corpus* (Version v0.1.0). GitHub. https://github.com/JyutdictEB/GoTCorpus
