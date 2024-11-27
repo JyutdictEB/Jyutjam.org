@@ -59,6 +59,10 @@ module.exports = {
                 text: '擴展粵拼方案（J++）',
                 link: '/j++/'
               },
+              {
+                text: '拉加魯北部灣粵語在線語料庫',
+                link: '/got/'
+              },
             ]
           },
           {
@@ -123,6 +127,10 @@ module.exports = {
               {
                 text: 'Jyutping++ (J++)',
                 link: '/en/j++/'
+              },
+              {
+                text: 'Lagarrue\'s GoT Cantonese Online Corpus',
+                link: '/en/got/'
               },
             ]
           },
