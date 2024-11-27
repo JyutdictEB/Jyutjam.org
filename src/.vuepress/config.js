@@ -62,7 +62,7 @@ module.exports = {
             ]
           },
           {
-            text: '社團活動',
+            text: '活動介紹',
             items: [
               {
                 text: '嶺南語言討論會（FoLiSC）',
