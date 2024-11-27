@@ -6,7 +6,7 @@ sidebar: auto
 
 This paper was previously presented at The Linguistics Society of Hong Kong - [21st Workshop on Cantonese (WOC-21)](https://lshk.org/events/woc/) on 26 June 2021.
 
-Reported by: [@以成](https://www.zhihu.com/people/huang-jun-xin-74)，指南 [@Zenam](https://www.zhihu.com/people/zenam)
+Presenter: [@以成](https://www.zhihu.com/people/huang-jun-xin-74)，指南 [@Zenam](https://www.zhihu.com/people/zenam)
 
 [Click here for the up-to-date Jyutping++ Scheme](https://docs.google.com/spreadsheets/d/19puWUoeYGflSuJj7mNm7maTX5bA2tkjNDESaMTBwPaw/edit?usp=sharing)
 
