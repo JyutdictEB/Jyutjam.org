@@ -60,7 +60,7 @@ module.exports = {
                 link: '/j++/'
               },
               {
-                text: '拉加魯北部灣粵語在線語料庫',
+                text: 'Lagarrue 北部灣粵語在線語料庫',
                 link: '/got/'
               },
             ]
