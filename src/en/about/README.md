@@ -9,7 +9,7 @@ sidebar: auto
 
 In the summer of 2018, *Jyutdict 泛粤典* was prepared for construction and another group *Jyutdict Editorial Board* was subsequently established. In this case, the key members of *Lingnaam Jyutjam* could be defined as those in the group *Jyutdict Editorial Board* to contribute to the compilation of *Jyutdict* and furthermore, to the video production on *Lingnaam Jyutjam Bilibili Account* to a certain extent.
 
-At present (2023), the key members of *Lingnaam Jyutjam* are mainly involved in the following subprojects (not for profit):
+At present (2024), the key members of *Lingnaam Jyutjam* are mainly involved in the following subprojects (not for profit):
 
 - Compilation and building of an online dictionary platform for Pan-Cantonese words including pronunciations and meanings: *[Jyutdict](/en/jyutdict-android/)*
 - Videos making of fun facts about Yue: released on *[Bilibili](https://space.bilibili.com/410568594)*
@@ -18,7 +18,10 @@ At present (2023), the key members of *Lingnaam Jyutjam* are mainly involved in 
 
 We have been organising our annual [offline meeting](/en/pan-cantonese-offline-meeting/) and [academic forum](/en/folisc/).
 
-Special Note: As of January 3, 2023, *Lingnaam Jyutjam Association* has never collaborated with any other commercial or non-commercial organizations, nor has it issued any donation requests, except for [ONE video](https://www.bilibili.com/video/BV1ji4y1L7W6) with *Dingding Hou Zeng 叮叮好正* on Bilibili. Please refer to official information (e.g. [Trend on *Bilibili*](https://space.bilibili.com/410568594/dynamic) or this website) to avoid being deceived.
+Special Note: As of November 27, 2024, *Lingnaam Jyutjam Association* has never collaborated with any other commercial or non-commercial organizations, nor has it issued any donation requests, apart from the collaborations mentioned in the following list. Please refer to official information (e.g. [Trend on *Bilibili*](https://space.bilibili.com/410568594/dynamic) or this website) to avoid being deceived.
+
+- Bilibili「叮叮好正」：[【葱花说粤】什么是粤语的文白异读现象](https://www.bilibili.com/video/BV1ji4y1L7W6)
+- Bilibili「望月正心Bhx」and others：[《打上花火》多汉语填词翻唱](https://www.bilibili.com/video/BV1bN411B7DB)
 
 ## 2. Structure of the Association
 

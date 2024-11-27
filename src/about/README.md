@@ -10,7 +10,7 @@ sidebar: auto
 
 2018 年夏季，「泛粵典」嘅搭建事宜開始籌備，隨後成立到「泛粵典編委會」QQ 羣。啲成員一定程度上參與過「泛粵典」嘅編寫、「嶺南粵音 Bilibili 平臺」嘅影片製作，係噉可以認爲係「嶺南粵音」嘅主要成員。
 
-目前（2023 年），「嶺南粵音」嘅主要成員主要有以下研究內容（非營利性）：
+目前（2024 年），「嶺南粵音」嘅主要成員主要有以下研究內容（非營利性）：
 
 - 編寫及搭建各地粵語字音查詢平臺——「[泛粵典](/jyutdict-android/)」
 - 製作粵語科普視頻——通過「[Bilibili 平臺](https://space.bilibili.com/410568594)」發佈
@@ -19,7 +19,10 @@ sidebar: auto
 
 我哋每年循例會舉辦[交流會](/pan-cantonese-offline-meeting/)、[學術討論會](/folisc/)。
 
-**特別注意：截至目前（2023 年 1 月 3 日）爲止，除咗同 Bilibili 平臺嘅「叮叮好正」合作過[一條片](https://www.bilibili.com/video/BV1ji4y1L7W6)之外，「嶺南粵音」從未同其它任何機構或者商業組織合作過，亦從未向外發佈過任何捐款請求。** 爲謹防受騙，請以官方消息爲準（如「[Bilibili 平臺動態](https://space.bilibili.com/410568594/dynamic)」或者本站）。
+**特別注意：截至目前（2024 年 11 月 27 日）爲止，除咗以下列表提及到嘅合作之外，「嶺南粵音」從未同其它任何機構或組織合作過，亦從未向外發佈過任何捐款請求**。爲謹防受騙，請以官方消息爲準（如「[Bilibili 平臺動態](https://space.bilibili.com/410568594/dynamic)」或者本站）。
+
+- Bilibili「叮叮好正」：[【葱花说粤】什么是粤语的文白异读现象](https://www.bilibili.com/video/BV1ji4y1L7W6)
+- Bilibili「望月正心Bhx」等：[《打上花火》多汉语填词翻唱](https://www.bilibili.com/video/BV1bN411B7DB)
 
 ## 2. 社團結構
 
