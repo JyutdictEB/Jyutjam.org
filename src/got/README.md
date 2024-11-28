@@ -48,7 +48,7 @@ MLA 8th:
 
 APA:
 
-> Lai, J., Wòng, P., Huang, J., & Ng, G.-O. (2023, July). The affiliation of Cantonese at the Sino-Vietnamese border in the late 19th century. *Current Research in Chinese Linguistics, 102*(2). https://doi.org/10.29499/CrCL.202307_102(2).0004
+> Lai, J., Wòng, P., Huang, J., & Ng, G.-O. (2023, July). The Affiliation of Cantonese at the Sino-Vietnamese Border in the Late 19th Century. *Current Research in Chinese Linguistics, 102*(2). https://doi.org/10.29499/CrCL.202307_102(2).0004
 
 ### 2.3 GitHub 倉庫
 
