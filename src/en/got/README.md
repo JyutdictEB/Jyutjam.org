@@ -36,7 +36,7 @@ MLA 8th:
 
 APA:
 
-> Huang, J., & Lai, J. (2024, Nov). Evolving pre-processing of raw corpus: The digitization initiative of Cantonese material at the Sino-Vietnamese border in the late 19th century. *Buckeye East Asian Linguistics*, 9, 32–51.
+> Huang, J., & Lai, J. (2024, Nov). Evolving Pre-processing of Raw Corpus: The Digitization Initiative of Cantonese Material at the Sino-Vietnamese Border in the Late 19th Century. *Buckeye East Asian Linguistics*, 9, 32–51.
 
 ### 2.2 The main study
 
