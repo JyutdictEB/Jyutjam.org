@@ -6,7 +6,7 @@ sidebar: auto
 
 ![FoLiSC](./folisc_logo.png)
 
-# 【征稿啓事】第五屆嶺南語言討論會 FoLiSC-5（2025.7）
+## 【征稿啓事】第五屆嶺南語言討論會 FoLiSC-5（2025.7）
 
 ### 1. 討論會簡介
 

@@ -6,7 +6,7 @@ sidebar: auto
 
 ![FoLiSC](./folisc_logo.png)
 
-# Call for Papers: The 5th Forum on Languages in South China (FoLiSC-5, July 2025)
+## Call for Papers: The 5th Forum on Languages in South China (FoLiSC-5, July 2025)
 
 ### 1. Introduction
 
