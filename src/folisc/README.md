@@ -72,7 +72,7 @@ sidebar: auto
 
 FoLiSC-4 程序表及論文摘要：[在線瀏覽](https://kdocs.cn/l/csICMImuZjES) | [GitHub存檔](https://github.com/JyutdictEB/FoLiSC-Docs/raw/main/FoLiSC-4/FoLiSC-4_Program_and_Abstracts.pdf)
 
-## FoLiSC-3（2023.7）
+## 第三屆嶺南語言討論會 FoLiSC-3（2023.7）
 
 ### 1. 討論會簡介
 
@@ -103,7 +103,7 @@ FoLiSC-4 程序表及論文摘要：[在線瀏覽](https://kdocs.cn/l/csICMImuZj
 
 FoLiSC-3 程序表及論文摘要：[在線瀏覽](https://kdocs.cn/l/cjboPubY84EQ) | [GitHub存檔](https://github.com/JyutdictEB/FoLiSC-Docs/raw/main/FoLiSC-3/FoLiSC-3_Program_and_Abstracts.pdf)
 
-## FoLiSC-2（2022.7）
+## 第二屆嶺南語言討論會 FoLiSC-2（2022.7）
 
 ### 1. 簡介
 
@@ -134,7 +134,7 @@ FoLiSC-3 程序表及論文摘要：[在線瀏覽](https://kdocs.cn/l/cjboPubY84
 
 FoLiSC-2 程序表及論文摘要：[在線瀏覽](https://www.kdocs.cn/l/ckkSaTmWZTCw) | [GitHub存檔](https://github.com/JyutdictEB/FoLiSC-Docs/raw/main/FoLiSC-2/FoLiSC-2_Program_and_Abstracts.pdf)
 
-## FoLiSC-1（2021.7）
+## 第一屆嶺南語言討論會 FoLiSC-1（2021.7）
 
 ### 1. 簡介
 
