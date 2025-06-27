@@ -5,8 +5,12 @@ tagline: 粵語研究愛好者網上社團
 actionText: 關於我哋 →
 actionLink: /about/
 xfeatures:
-- title: 泛粵典安卓版
-  details: 各地粵語字音查詢 App，相較網頁版多咗「查泛粵字表」功能
+- title: 泛粵典網頁版
+  details: 各地粵語字音查詢
+  link: /jyutdict-web/
+  target: ''
+- title: 泛粵典安卓端
+  details: 與網頁版功能有些少出入
   link: /jyutdict-android/
   target: ''
 - title: Bilibili 平臺
@@ -17,7 +21,7 @@ xfeatures:
   details: info@jyutjam.org
   link: 'mailto: info@jyutjam.org'
   target: view_window
-footer: 'By github.com/JyutdictEB | 2017-2024'
+footer: 'By github.com/JyutdictEB | 2017-2025'
 ---
 <div class="features">
   <div class="feature" v-for="feat in $page.frontmatter.xfeatures">
