@@ -13,7 +13,7 @@ sidebar: auto
 The 8th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 5th Forum on Languages in South China (or FoLiSC-5) will be organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
 
 - Date: 3 August 2025 (Sunday)
-- Time: 1:50pm - 6:00pm (HKT, UTC+8)
+- Time: 13:50pm - 18:00pm (HKT, UTC+8)
 - Venue: Online Zoom meeting (For room number and passcode, please refer to the attached *Program and Abstracts* below)
 
 ### 2. Objectives

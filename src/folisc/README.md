@@ -13,7 +13,7 @@ sidebar: auto
 嶺南粵音第八屆泛粵線下交流會暨第五屆嶺南語言討論會（The 8th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 5th Forum on Languages in South China，FoLiSC-5）由嶺南粵音·泛粵典編委會主辦。討論會基本情況如下：
 
 - 日期：2025 年 8 月 3 日（星期日）
-- 時間：香港時間下午 1:50 至下午 6:00
+- 時間：香港時間下午 13:50 至下午 18:00
 - 場所：線上 Zoom 會議（會議號及密碼請參考後附「程序表及論文摘要」）
 
 ### 2. 目標
