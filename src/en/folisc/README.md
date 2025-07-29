@@ -6,15 +6,15 @@ sidebar: auto
 
 ![FoLiSC](./folisc_logo.png)
 
-## Call for Papers: The 5th Forum on Languages in South China (FoLiSC-5, July 2025)
+## The 5th Forum on Languages in South China (FoLiSC-5, August 2025)
 
 ### 1. Introduction
 
 The 8th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 5th Forum on Languages in South China (or FoLiSC-5) will be organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
 
-- Date: 26 July 2025 (Saturday) (Tentative, the final date may be slightly adjusted)
-- Time: 1:00pm - 5:00pm (HKT, UTC+8) (Tentative, the final schedule will be announced in advance)
-- Venue: Online Zoom meeting
+- Date: 3 August 2025 (Sunday)
+- Time: 1:50pm - 6:00pm (HKT, UTC+8)
+- Venue: Online Zoom meeting (For room number and passcode, please refer to the attached *Program and Abstracts* below)
 
 ### 2. Objectives
 
@@ -33,13 +33,9 @@ The reporting format for this discussion will adopt a roundtable meeting approac
 
 The report language is allowed and limited to Cantonese, Mandarin, or English.
 
-### 5. Abstract Submission
+### 5. Related documents
 
-Please submit your abstract no later than **10 July 2025, 24:00 (HKT)** via email to **jyutjam@tutanota.com** with "FoLiSC-5" in the subject line.
-
-The abstract should not exceed one A4 page and **must be submitted anonymously**. Please do not include your name, affiliated institution, or any personal information. The abstract can be written in Cantonese, Modern Chinese (including Hong Kong Chinese), or English.
-
-Results of the abstract review will be announced before 20 July 2025.
+FoLiSC-5 Program and Abstracts: [View online](https://kdocs.cn/l/cp7pLN0HDh3t) | [GitHub archive](https://github.com/JyutdictEB/FoLiSC-Docs/raw/main/FoLiSC-5/FoLiSC-5_Program_and_Abstracts.pdf)
 
 ## FoLiSC-4 (August, 2024)
 

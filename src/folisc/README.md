@@ -6,15 +6,15 @@ sidebar: auto
 
 ![FoLiSC](./folisc_logo.png)
 
-## 【征稿啓事】第五屆嶺南語言討論會 FoLiSC-5（2025.7）
+## 第五屆嶺南語言討論會 FoLiSC-5（2025.8）
 
 ### 1. 討論會簡介
 
 嶺南粵音第八屆泛粵線下交流會暨第五屆嶺南語言討論會（The 8th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 5th Forum on Languages in South China，FoLiSC-5）由嶺南粵音·泛粵典編委會主辦。討論會基本情況如下：
 
-- 日期：2025 年 7 月 26 日（星期六）（預定，最終日期可能會稍作調整）
-- 時間：香港時間下午 1 時至下午 5 時（預定，最終時間表會提前公佈）
-- 場所：線上 Zoom 會議
+- 日期：2025 年 8 月 3 日（星期日）
+- 時間：香港時間下午 1:50 至下午 6:00
+- 場所：線上 Zoom 會議（會議號及密碼請參考後附「程序表及論文摘要」）
 
 ### 2. 目標
 
@@ -33,13 +33,9 @@ sidebar: auto
 
 報告語言允許且僅允許使用粵語、普通話或英語。
 
-### 5. 提交摘要
+### 5. 相關文件
 
-**請不遲於香港時間 2025 年 7 月 10 日夜晚 24 時**發送電郵至 **jyutjam@tutanota.com** 提交摘要，並在主题附注「FoLiSC-5」字樣。
-
-摘要內容不超過一頁 A4 紙，**須要以匿名方式提交**，切勿列出姓名、所屬院校等個人信息。摘要可以使用粵文、現代漢語中文（含香港中文）或英文書寫。
-
-摘要評審結果將於 2025 年 7 月 20 日前公佈。
+FoLiSC-5 程序表及論文摘要：[在線瀏覽](https://www.kdocs.cn/l/cp7pLN0HDh3t) | [GitHub存檔](https://github.com/JyutdictEB/FoLiSC-Docs/raw/main/FoLiSC-5/FoLiSC-5_Program_and_Abstracts.pdf)
 
 ## 第四屆嶺南語言討論會 FoLiSC-4（2024.8）
 

@@ -6,7 +6,7 @@ sidebar: auto
 
 ## 1. Introduction
 
-*Pan-Cantonese Offline Meeting* is an annual gathering of members of Lingnaam Jyutjam, usually held in July to August. The basic format is to pick a place with a local Yue dialect every year and go together to have fun. The following 7 events have been held successfully so far:
+*Pan-Cantonese Offline Meeting* is an annual gathering of members of Lingnaam Jyutjam, usually held in July to August. The basic format is to pick a place with a local Yue dialect every year and go together to have fun. The following 8 events have been held successfully so far:
 
 - 2018 Guangzhou
 - 2019 Hong Kong - Shenzhen
@@ -15,6 +15,7 @@ sidebar: auto
 - 2022 Duanzhou*
 - 2023 Beihai - Hepu
 - 2024 Nanning
+- 2025 Zhuhai - Zhongshan
 
 *Note: Conducted in compliance with local COVID-19 outbreak prevention and control requirements.
 
