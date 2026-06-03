@@ -8,7 +8,13 @@ This paper was previously presented at The Linguistics Society of Hong Kong - [2
 
 Presenter: [@以成](https://www.zhihu.com/people/huang-jun-xin-74)，指南 [@Zenam](https://www.zhihu.com/people/zenam)
 
-[Click here for the up-to-date Jyutping++ Scheme](https://docs.google.com/spreadsheets/d/19puWUoeYGflSuJj7mNm7maTX5bA2tkjNDESaMTBwPaw/edit?usp=sharing)
+## 0.1 Supplement in 2026
+
+As of 2026, the current scheme has been moved to [jyutdict.org/about/jpp](https://jyutdict.org/about/jpp). Please refer to that page for the latest version.
+
+## 0.2 Supplement in 2025
+
+The original text was published in 2021. Over time, we have revised some implementation details from multiple sources. The initials, finals (vowels), and tone marks have all undergone minor changes to varying degrees. This page remains faithful to the original report and has not been adjusted; please refer to Jyutdict for actual usage.
 
 ## 1. Abstract
 

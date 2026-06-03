@@ -8,9 +8,11 @@ sidebar: auto
 
 報告人：[@以成](https://www.zhihu.com/people/huang-jun-xin-74)，指南 [@Zenam](https://www.zhihu.com/people/zenam)
 
-[點此瀏覽最新Jyutping++方案全表](https://docs.google.com/spreadsheets/d/19puWUoeYGflSuJj7mNm7maTX5bA2tkjNDESaMTBwPaw/edit?usp=sharing)
+## 0.1 補充于 2026 年
 
-## 0. 補充于 2025 年
+2026 年現行方案已移至 [jyutdict.org/about/jpp](https://jyutdict.org/about/jpp)，請移步該頁面查閱最新版本。
+
+## 0.2 補充于 2025 年
 
 原文發表于 2021 年。這段時間我們又從多個地方修改了一些實現細節。聲母、韻母（元音）、調號都有不同程度的小變動。本頁忠於報告，不作調整，實際使用以泛粵典爲準。
 
