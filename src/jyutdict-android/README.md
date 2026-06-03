@@ -122,125 +122,165 @@ sidebar: auto
 
 另註：以上截圖均爲歷史版本，較新版本佈局或有差異。
 
-## 3. 資料來源
+## 3. 補充說明及問與答
+
+### 3.1 擴展粵拼方案
+
+見[擴展粵拼方案（J++）](/j++/)單獨說明頁。
+
+### 3.2 聲調表
+
+見[泛粵聲調表](https://www.jyutdict.org/about#tone)。
+
+### 3.3 服務器細水管低配置，請勿 DDoS，不要爬蟲。
+
+### 3.4 問與答
+
+**Q1. J++ 的必要性 / 怎麼不直接用 IPA**
+
+實際上，有三處使用了 J++：1. 地方音展示；2. 按音查字；3. 泛粵表。如果僅使用 IPA，一方面使用門檻升高，另一方面還會使各處的錄入工作增添麻煩，再者粵語音系相對統一，常用的擴展粵拼相對原來粵拼並未有大幅度變化，學習成本不高；其次，偏向嚴式的表記仍會使用 IPA，雖會更準確記錄當地音，然而也會削弱了不同地方讀音之間的聯繫，因而再補上了粵拼，這樣也可以附帶調號以表示調類情況。
+
+（注意：不是所有地方都有偏嚴式的 IPA，而且即使使用了寬式 IPA 也不代表就是足夠合理的，這受限於是否能有條件去分析當地實際讀音，加之字表提供者本身的口音偏差，成爲不得僅使用 IPA 的原因之一。）
+
+**Q2. 點真少 / 怎麼都是ｘｘ的點**
+
+見下。
+
+**Q3. 資料有誤 / 可以提供當地字表 / 參與泛粵表協作 / 有建議等等**
+
+歡迎聯繫、提供字表。
+
+**Q4. 泛粵表的綜合音有何意義**
+
+泛粵（字）表係基於各地方音共時共義比較箇理念建立嘅，因此我等力求將佢做成廣泛嘅、特色化嘅、面向諸粵嘅數據庫陣時，毋可避免要面對現實數據處理箇諸多問題，如電子數據箇排序、篩選、跨地搜索者等等。衹係爲唨便於實現以上功能，表內先提供有所謂主觀鬭成嘅「泛粵綜合音」、佢啲材料即根植於歷史粵語辭書同埋各方音箇高舉音位。邇層「綜合音」毋推薦作爲實際通音使用，而且會隨住數據源箇拓展、粵語音韻理論箇更新而改變法則。
+
+**Q5. 其他版本？**
+
+[網頁版](/jyutdict-web/)可用。
+
+**Q6. 說普通話，做文明人 / 廣州話才是最標準的粵語 / 粵語警察？**
+
+哦。
+
+## 4. 資料來源
 
 （均不分先後，帶@號爲知乎名稱）
 
-### 3.1 通用字表來源
+### 4.1 通用字表來源
+
+- 分韻、英華：[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai) 主導
+- 鶴山沙坪: Sathaksamyan
+- 開平護龍: 鄧鈞
+- 台山大江: [@彼岸](https://www.zhihu.com/people/bi-an-38-87)
+- 台山斗山墟: [@chands](https://www.zhihu.com/people/chands)
+- 江門荷塘上邊: [@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
+- 江門荷塘下邊: [@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
+- 江門水南: [@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
+- 江門白沙: [@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
+- 江門紫萊: [@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
+- 江門沙仔尾: [@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
+- 開平沙塘: [@xing](https://www.zhihu.com/people/yin-li-chang-liang-80)/砂糖
+- 新會天湖: [@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
+- 新會羅坑: @大蛤
+- 新會會城: [@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)>好爽瘾输入法
+- 江門墟頂: [@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
+- 東莞塘角: [@不羁](https://www.zhihu.com/people/da-shu-18-11)、[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)
+- 東莞黃麻嶺: 謝俊賢/@I
+- 東莞莞城: [@不羁](https://www.zhihu.com/people/da-shu-18-11)
+- 江門白話: [@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
+- 廣州: [@以成](https://www.zhihu.com/people/huang-jun-xin-74)、[@Simon So](https://www.zhihu.com/people/simon-so)、@Tim、[@Ching-hung Ng](https://www.zhihu.com/people/ching-hung-ng)
+- 順德大良: [@Uncle光](https://www.zhihu.com/people/zuo-yao-20)
+- 中山石岐: [@亘古二六亖](https://www.zhihu.com/people/gg264)
+- 中山小欖: 靈帝
+- 肇慶: [@Ecr-弋汐](https://www.zhihu.com/people/ecisrhetha)
+- 新興新城: [@不羁](https://www.zhihu.com/people/da-shu-18-11)、[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)
+- 陽春松柏: [@不羁](https://www.zhihu.com/people/da-shu-18-11)
+- 梧州: [@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)
+- 南寧: @tim
+- 橫縣: alex
+- 百色: 夏桑菊>
+- 桂平: [B@浔人骑诗1](https://space.bilibili.com/547926759?spm_id_from=..0.0)
+- 梧州戎墟: [@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)>《廣西蒼梧白話詞匯…》、类光源
+- 梧州扶典是: 晋州永世
+- 封川: [@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)>《封開方言志》
+- 開建: [@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)>《封開方言志》、阿水/B@我嘅拳头沙煲咁大
+- 蒼梧石橋: [@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)、淩蕓訫飛
+- 蒙山:
+- 桂平尋旺: [@馮景宸](https://www.zhihu.com/people/jing-meng-xing-cheng)
+- 陸川馬坡是: 於兔
+- 北流大旺: 喇叭褲
+- 容縣: [@PYT](https://www.zhihu.com/people/pan473820)
+- 鬱林: [@暾明](https://www.zhihu.com/people/tun-ming-89)
+- 貴港街里: [@貴糖菠蘿](https://www.zhihu.com/people/teng-teng-64-96)、《貴港話同音字彙》
+- 靈山太平（新立）: 達陽
+- 廉州: [@Sin Yeung](https://www.zhihu.com/people/xian-yang-61)>《廣西通志·漢語方言志》、互聯網
+- 湛江坡頭: @女尊控
+- 吳川吳陽: @女尊控
+- 化州下江: [@白朔](https://www.zhihu.com/people/troye-sivan-44)
+- 化州上江: [@白朔](https://www.zhihu.com/people/troye-sivan-44)
+- 欽州: [@Jzit](https://www.zhihu.com/people/lai-joengzit)
+- 防城: ［匿名］
+- 北海: [@Sin Yeung](https://www.zhihu.com/people/xian-yang-61)
+- 遂溪草潭: 州
+- 遂溪遂城: SìhngYíh
+- 湛江赤坎: SìhngYíh
+- 高州: [@一优法师](https://www.zhihu.com/people/yi-xie-bian-zhou-31-35)
+- 高州石鼓: [@一优法师](https://www.zhihu.com/people/yi-xie-bian-zhou-31-35)
+- 茂名: 潘少、[@Aleko Lau](https://www.zhihu.com/people/lau-alex)、[B@常ならむ](https://space.bilibili.com/6033674)
+- 陽春合水: [@不羁](https://www.zhihu.com/people/da-shu-18-11)
+- 陽春河口: [@不羁](https://www.zhihu.com/people/da-shu-18-11)
+- 陽江: [@不羁](https://www.zhihu.com/people/da-shu-18-11)、[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)
+- 柳州: 小易、何平
+- 宜章一六: [@忘潮汕难洞敏](https://www.zhihu.com/people/wang-chao-shan-nan-dong-min)
 
 簡繁異轉換字表來自 [OpenCC](https://github.com/BYVoid/OpenCC)
 
 中古音（廣韻）：[@王赟 Maigo](https://www.zhihu.com/people/maigo)《漢語古今中外讀音查詢》入邊 poem 嘅《廣韻字音表》
 
-分韻、英華：[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai) 主導
+### 4.2 泛粵字表來源/填寫人
 
-開平沙塘：[@xing](https://www.zhihu.com/people/yin-li-chang-liang-80)
+- 台山　　：——
+- 新會羅坑：——
+- 新會　　：——
+- 江門　　：[@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
+- 東莞塘角：《莞語探源》
+- 香港　　：網絡；[@以成](https://www.zhihu.com/people/huang-jun-xin-74)、Henry；《香港粵語詞典》
+- 廣州　　：William、[@以成](https://www.zhihu.com/people/huang-jun-xin-74)、[@Zenam](https://www.zhihu.com/people/zenam)；《實用廣州話分類詞典》、《廣州方言詞典》
+- 澳門　　：[@日月盈昃](https://www.zhihu.com/people/siufeifeitunghok)
+- 番禺南沙：傷城
+- 順德　　：[@Uncle光](https://www.zhihu.com/people/zuo-yao-20)
+- 中山小欖：[@靈帝](https://www.zhihu.com/people/ling-di-89)
+- 端州　　：@Ecr.弋夕希霅/[@Ecr-弋汐](https://www.zhihu.com/people/ecisrhetha)
+- 鼎湖　　：[@莫嚳](https://www.zhihu.com/people/mo-ku-89)
+- 羅定　　：阿斯巴甜
+- 梧州　　：[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)、金網漸遠綫
+- 平南　　：[@topslut](https://www.zhihu.com/people/topslut)
+- 桂平　　：何平
+- 南寧　　：——
+- 湛江　　：曇山
+- 陽江　　：二尾
+- 陽春　　：不羈
+- 高州　　：
+- 茂名　　：[@Aleko Lau](https://www.zhihu.com/people/lau-alex)
+- 北海　　：[@Sin Yeung](https://www.zhihu.com/people/xian-yang-61)
+- 欽州　　：[@Jzit](https://www.zhihu.com/people/lai-joengzit)、[@DiegoWong](https://www.zhihu.com/people/huang-zhao-qing-71)、潘叔、[@Sin Yeung](https://www.zhihu.com/people/xian-yang-61)
+- 防城　　：[@晴海喵鱼子](https://www.zhihu.com/people/recif-poisson)
+- 浦北福旺：小木
+- 廉州　　：網絡
+- 靈山　　：《靈山話紀略》
+- 新立　　：《欽州新立話研究》
+- 貴港　　：[@貴糖菠蘿](https://www.zhihu.com/people/teng-teng-64-96)
+- 桂平尋旺：[@馮景宸](https://www.zhihu.com/people/jing-meng-xing-cheng)
+- 梧州戎墟：類光源、[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai) 錄入
+- 蒼梧石橋：淩蕓、[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai) 錄入
+- 蒙山　　：某份蒙山字表 + [@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai) 錄入
+- 鬱林　　：[@暾明](https://www.zhihu.com/people/tun-ming-89)
 
-新會會城：[@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
+### 4.3 若想填表
 
-江門水南：[@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
+只需知曉非常基礎的音韻學，兼之粵拼或 IPA 任一，就可以爲自己母語寫字表、交及我們展示了。底表可於下方 B 站號置頂動態下載。
 
-廣州　　：[@以成](https://www.zhihu.com/people/huang-jun-xin-74)
-
-肇慶端州：[@Ecr-弋汐](https://www.zhihu.com/people/ecisrhetha)
-
-梧州　　：[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)
-
-茂名　　：潘少、[@Aleko Lau](https://www.zhihu.com/people/lau-alex)、常ならむ
-
-防城　　：[@晴海喵鱼子](https://www.zhihu.com/people/recif-poisson)
-
-欽州　　：[@Jzit](https://www.zhihu.com/people/lai-joengzit)
-
-北海　　：[@Sin Yeung](https://www.zhihu.com/people/xian-yang-61)
-
-廉州　　：《廣西通志·漢語方言志》+ 互聯網 + [@Sin Yeung](https://www.zhihu.com/people/xian-yang-61) 審查並校對
-
-貴港街里：[@貴糖菠蘿](https://www.zhihu.com/people/teng-teng-64-96) 以及《貴港話同音字彙》（黃格凡）
-
-桂平尋旺：[@馮景宸](https://www.zhihu.com/people/jing-meng-xing-cheng)
-
-蒼梧石橋：[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)
-
-容縣　　：PYT
-
-鬱林大塘：[@暾明](https://www.zhihu.com/people/tun-ming-89)
-
-### 3.2 泛粵字表來源/填寫人
-
-台山　　：——
-
-新會羅坑：——
-
-新會　　：——
-
-江門　　：[@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
-
-東莞塘角：《莞語探源》
-
-香港　　：網絡；[@以成](https://www.zhihu.com/people/huang-jun-xin-74)、Henry；《香港粵語詞典》
-
-廣州　　：William、[@以成](https://www.zhihu.com/people/huang-jun-xin-74)、[@Zenam](https://www.zhihu.com/people/zenam)；《實用廣州話分類詞典》、《廣州方言詞典》
-
-澳門　　：[@日月盈昃](https://www.zhihu.com/people/siufeifeitunghok)
-
-番禺南沙：傷城
-
-順德　　：[@Uncle光](https://www.zhihu.com/people/zuo-yao-20)
-
-中山小欖：[@靈帝](https://www.zhihu.com/people/ling-di-89)
-
-端州　　：@Ecr.弋夕希霅/[@Ecr-弋汐](https://www.zhihu.com/people/ecisrhetha)
-
-鼎湖　　：[@莫嚳](https://www.zhihu.com/people/mo-ku-89)
-
-羅定　　：阿斯巴甜
-
-梧州　　：[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)、金網漸遠綫
-
-平南　　：[@topslut](https://www.zhihu.com/people/topslut)
-
-桂平　　：何平
-
-南寧　　：——
-
-湛江　　：曇山
-
-陽江　　：二尾
-
-陽春　　：不羈
-
-高州　　：
-
-茂名　　：[@Aleko Lau](https://www.zhihu.com/people/lau-alex)
-
-北海　　：[@Sin Yeung](https://www.zhihu.com/people/xian-yang-61)
-
-欽州　　：[@Jzit](https://www.zhihu.com/people/lai-joengzit)、[@DiegoWong](https://www.zhihu.com/people/huang-zhao-qing-71)、潘叔、[@Sin Yeung](https://www.zhihu.com/people/xian-yang-61)
-
-防城　　：[@晴海喵鱼子](https://www.zhihu.com/people/recif-poisson)
-
-浦北福旺：小木
-
-廉州　　：網絡
-
-靈山　　：《靈山話紀略》
-
-新立　　：《欽州新立話研究》
-
-貴港　　：[@貴糖菠蘿](https://www.zhihu.com/people/teng-teng-64-96)
-
-桂平尋旺：[@馮景宸](https://www.zhihu.com/people/jing-meng-xing-cheng)
-
-梧州戎墟：類光源、[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai) 錄入
-
-蒼梧石橋：淩蕓、[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai) 錄入
-
-蒙山　　：某份蒙山字表 + [@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai) 錄入
-
-鬱林　　：[@暾明](https://www.zhihu.com/people/tun-ming-89)
-
-## 4. 聯繫方式
+## 5. 聯繫方式
 
 若有心編寫通用字表或協助泛粵字表項目，且對音韻學有一定了解（應至少需要懂得多少粵拼及對自家母語嘅歸納能力），歡迎通過以下方式聯繫：
 
@@ -252,7 +292,7 @@ sidebar: auto
 
 開發者個人知乎：@Ecr.弋夕希霅（舊）/ [@Ecr-弋汐](https://www.zhihu.com/people/ecisrhetha)（現）
 
-## 5. 隱私聲明
+## 6. 隱私聲明
 
 喺使用本應用時，服務器後臺將記錄且僅記錄包括 IP 地址及查詢時間在內嘅查詢內容。呢啲資料僅用於優化服務器，及規避諸如受惡意攻擊一類嘅風險，而唔會用於識別特定個人。
 

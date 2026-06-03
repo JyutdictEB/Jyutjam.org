@@ -9,7 +9,7 @@ sidebar: auto
 
 In the summer of 2018, *Jyutdict 泛粤典* was prepared for construction and another group *Jyutdict Editorial Board* was subsequently established. In this case, the key members of *Lingnaam Jyutjam* could be defined as those in the group *Jyutdict Editorial Board* to contribute to the compilation of *Jyutdict* and furthermore, to the video production on *Lingnaam Jyutjam Bilibili Account* to a certain extent.
 
-At present (2024), the key members of *Lingnaam Jyutjam* are mainly involved in the following subprojects (not for profit):
+At present (2026), the key members of *Lingnaam Jyutjam* are mainly involved in the following subprojects (not for profit):
 
 - Compilation and building of an online dictionary platform for Pan-Cantonese words including pronunciations and meanings: *[Jyutdict](/en/jyutdict-web/)*
 - Videos making of fun facts about Yue: released on *[Bilibili](https://space.bilibili.com/410568594)*

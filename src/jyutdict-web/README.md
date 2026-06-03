@@ -3,11 +3,11 @@ sidebar: auto
 ---
 # 泛粵典網頁版
 
-當前版本：α0.9.0
+當前版本：β1.0.2/260419
 
 泛粵典網頁版 網址：[jyutdict.org](https://jyutdict.org/)
 
-## 1. 綜述
+## 1. 泛粵大典
 
 泛粵典旨在收集現時各地讀音與歷史韻書讀音並提供一些基礎的查詢功能，包括查字、查音，未來再繼續加入查韻（按音韻地位檢索）及查詞等功能和更多的字表。
 
@@ -17,7 +17,9 @@ sidebar: auto
 
 本站粵語拼音方案使用[擴展粵拼（J++）](/j++/)，調號方案大多見於下文泛粵聲調表。
 
-## 2. 通用字表
+## 2. 通用字表與泛粵字表
+
+### 2.1 通用字表
 
 **通用字表即通語字表**，主要收集的是粵官共有，或使用範圍較廣的字。
 
@@ -27,7 +29,7 @@ sidebar: auto
 
 地方音表格第二列使用 J++ 以及 IPA 記音，末列爲備註，通常爲對破音字的例詞或說明。
 
-## 3. 泛粵字表
+### 2.2 泛粵字表
 
 泛粵字表收錄泛粵粵語中相比普通話比較突出的用字，並使用擴展粵拼記錄該字在各點中的讀音，至 19 年 7 月末合計收錄 2500+ 條；23 年中計 4500+ 條。
 
@@ -73,11 +75,51 @@ sidebar: auto
 
 因爲各地音是由各地志願者自行填寫而成，人手不多，常見某地填寫缺失或出錯。有心協助者可通過本頁底部聯繫方式聯繫我們。
 
-## 3. 資料來源以及鳴謝
+## 3. 補充說明及問與答
+
+### 3.1 擴展粵拼方案
+
+見[擴展粵拼方案（J++）](/j++/)單獨說明頁。
+
+### 3.2 聲調表
+
+見說明頁。
+
+### 3.3 服務器細水管低配置，請勿 DDoS，不要爬蟲。
+
+### 3.4 問與答
+
+**Q1. J++ 的必要性 / 怎麼不直接用 IPA**
+
+實際上，有三處使用了 J++：1. 地方音展示；2. 按音查字；3. 泛粵表。如果僅使用 IPA，一方面使用門檻升高，另一方面還會使各處的錄入工作增添麻煩，再者粵語音系相對統一，常用的擴展粵拼相對原來粵拼並未有大幅度變化，學習成本不高；其次，偏向嚴式的表記仍會使用 IPA，雖會更準確記錄當地音，然而也會削弱了不同地方讀音之間的聯繫，因而再補上了粵拼，這樣也可以附帶調號以表示調類情況。
+
+（注意：不是所有地方都有偏嚴式的 IPA，而且即使使用了寬式 IPA 也不代表就是足夠合理的，這受限於是否能有條件去分析當地實際讀音，加之字表提供者本身的口音偏差，成爲不得僅使用 IPA 的原因之一。）
+
+**Q2. 點真少 / 怎麼都是ｘｘ的點**
+
+見下。
+
+**Q3. 資料有誤 / 可以提供當地字表 / 參與泛粵表協作 / 有建議等等**
+
+歡迎聯繫、提供字表。
+
+**Q4. 泛粵表的綜合音有何意義**
+
+泛粵（字）表係基於各地方音共時共義比較箇理念建立嘅，因此我等力求將佢做成廣泛嘅、特色化嘅、面向諸粵嘅數據庫陣時，毋可避免要面對現實數據處理箇諸多問題，如電子數據箇排序、篩選、跨地搜索者等等。衹係爲唨便於實現以上功能，表內先提供有所謂主觀鬭成嘅「泛粵綜合音」、佢啲材料即根植於歷史粵語辭書同埋各方音箇高舉音位。邇層「綜合音」毋推薦作爲實際通音使用，而且會隨住數據源箇拓展、粵語音韻理論箇更新而改變法則。
+
+**Q5. 其他版本？**
+
+[安卓版本](/jyutdict-android/)可用。
+
+**Q6. 說普通話，做文明人 / 廣州話才是最標準的粵語 / 粵語警察？**
+
+哦。
+
+## 4. 資料來源以及鳴謝
 
 （帶@號爲知乎名稱）
 
-### 3.1 通用字表來源
+### 4.1 通用字表來源
 
 - 分韻、英華：[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai) 主導
 - 鶴山沙坪: Sathaksamyan
@@ -97,10 +139,12 @@ sidebar: auto
 - 江門墟頂: [@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
 - 東莞塘角: [@不羁](https://www.zhihu.com/people/da-shu-18-11)、[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)
 - 東莞黃麻嶺: 謝俊賢/@I
+- 東莞莞城: [@不羁](https://www.zhihu.com/people/da-shu-18-11)
 - 江門白話: [@Kwingiem Chan](https://www.zhihu.com/people/reseted1608208839617)
 - 廣州: [@以成](https://www.zhihu.com/people/huang-jun-xin-74)、[@Simon So](https://www.zhihu.com/people/simon-so)、@Tim、[@Ching-hung Ng](https://www.zhihu.com/people/ching-hung-ng)
 - 順德大良: [@Uncle光](https://www.zhihu.com/people/zuo-yao-20)
 - 中山石岐: [@亘古二六亖](https://www.zhihu.com/people/gg264)
+- 中山小欖: 靈帝
 - 肇慶: [@Ecr-弋汐](https://www.zhihu.com/people/ecisrhetha)
 - 新興新城: [@不羁](https://www.zhihu.com/people/da-shu-18-11)、[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)
 - 陽春松柏: [@不羁](https://www.zhihu.com/people/da-shu-18-11)
@@ -138,25 +182,32 @@ sidebar: auto
 - 茂名: 潘少、[@Aleko Lau](https://www.zhihu.com/people/lau-alex)、[B@常ならむ](https://space.bilibili.com/6033674)
 - 陽春合水: [@不羁](https://www.zhihu.com/people/da-shu-18-11)
 - 陽春河口: [@不羁](https://www.zhihu.com/people/da-shu-18-11)
+- 陽江: [@不羁](https://www.zhihu.com/people/da-shu-18-11)、[@大渡河飞过海](https://www.zhihu.com/people/da-du-he-fei-guo-hai)
+- 柳州: 小易、何平
+- 宜章一六: [@忘潮汕难洞敏](https://www.zhihu.com/people/wang-chao-shan-nan-dong-min)
 
 簡繁異轉換字表來自 [OpenCC](https://github.com/BYVoid/OpenCC)
 
 中古音（廣韻）：[@王赟 Maigo](https://www.zhihu.com/people/maigo)《漢語古今中外讀音查詢》入邊 poem 嘅《廣韻字音表》
 
-### 3.2 技術支援鳴謝
+### 4.2 技術支援鳴謝
 
 指南 [@Zenam](https://www.zhihu.com/people/zenam)、[@以成](https://www.zhihu.com/people/huang-jun-xin-74) 等人嘅共同開發
 
 平姐 等人嘅设计协助
 
-嶺南 IT 組（又稱泛粵典編委會 IT 組，[JyutdictEB](https://github.com/JyutdictEB)）嘅技術支援：小木、William、[@Aleko Lau](https://www.zhihu.com/people/lau-alex)、行者等人
+嶺南 IT 組（又稱泛粵典編委會 IT 組，[JyutdictEB](https://github.com/JyutdictEB)）嘅技術支援：小木、William、[@Aleko Lau](https://www.zhihu.com/people/lau-alex)、Pomfret、行者等人
 
 泛粵典編委會嘅內測
 
 嶺南粵音提供嘅吹水平臺
 
-## 4. 聯繫
+### 4.3 若想填表
 
-泛粵典反饋組（QQ 羣）：837607356
+只需知曉非常基礎的音韻學，兼之粵拼或 IPA 任一，就可以爲自己母語寫字表、交及我們展示了。底表可於下方 B 站號置頂動態下載。
 
-開發者個人 QQ：526438991
+## 5. 聯繫
+
+- 嶺南粵音嘅 [Bilibili](https://space.bilibili.com/410568594)
+- 泛粵大典 Q 羣：837607356
+- 個人 QQ：526438991
