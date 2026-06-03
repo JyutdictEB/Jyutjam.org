@@ -6,7 +6,7 @@ sidebar: auto
 
 ![FoLiSC](./folisc_logo.png)
 
-# Call for Papers: The 6th Forum on Languages in South China (FoLiSC-6, July 2026)
+## Call for Papers: The 6th Forum on Languages in South China (FoLiSC-6, July 2026)
 
 ### 1. Introduction
 

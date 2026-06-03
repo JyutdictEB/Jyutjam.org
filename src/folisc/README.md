@@ -6,7 +6,7 @@ sidebar: auto
 
 ![FoLiSC](./folisc_logo.png)
 
-# 【征稿啓事】第六屆嶺南語言討論會 FoLiSC-6（2026.7）
+## 【征稿啓事】第六屆嶺南語言討論會 FoLiSC-6（2026.7）
 
 ### 1. 討論會簡介
 
