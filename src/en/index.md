@@ -5,14 +5,26 @@ tagline: Online Association for Yue Studies Lovers
 actionText: About Us →
 actionLink: /en/about/
 xfeatures:
+- title: Jyutdict Web
+  details: A dictionary web app for Pan-Cantonese words including pronunciations and meanings
+  link: /en/jyutdict-web/
+  target: ''
 - title: Jyutdict Android
-  details: A dictionary app for Pan-Cantonese words including pronunciations and meanings
+  details: Less functional than the web app, but still useful for quick lookups
   link: /en/jyutdict-android/
   target: ''
 - title: Our Bilibili
   details: Making videos on fun facts about Yue Language
   link: https://space.bilibili.com/410568594
   target: view_window
+- title: Extended Jyutping (J++)
+  details: An extended Jyutping romanization scheme designed for various Yue languages
+  link: /en/j++/
+  target: ''
+- title: Forum on Languages in South China (FoLiSC)
+  details: Annual forum for academic exchange on languages in South China
+  link: /en/folisc/
+  target: ''
 - title: Contact Us
   details: info@jyutjam.org
   link: 'mailto: info@jyutjam.org'

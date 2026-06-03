@@ -9,14 +9,22 @@ xfeatures:
   details: 各地粵語字音查詢
   link: /jyutdict-web/
   target: ''
-- title: 泛粵典安卓端
+- title: 泛粵典安卓版
   details: 與網頁版功能有些少出入
   link: /jyutdict-android/
   target: ''
 - title: Bilibili 平臺
-  details: 製作並發佈粵語科普視頻
+  details: 製作並發佈粵語科普影片
   link: https://space.bilibili.com/410568594
   target: view_window
+- title: 擴展粵拼方案（J++）
+  details: 爲粵語各地方言點而設且兼容粵拼嘅拼音方案
+  link: /j++/
+  target: ''
+- title: 嶺南語言討論會（FoLiSC）
+  details: 年度嶺南語言學術交流會議
+  link: /folisc/
+  target: ''
 - title: 聯繫我哋
   details: info@jyutjam.org
   link: 'mailto: info@jyutjam.org'
