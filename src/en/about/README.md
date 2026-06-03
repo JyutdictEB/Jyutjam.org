@@ -11,7 +11,7 @@ In the summer of 2018, *Jyutdict 泛粤典* was prepared for construction and an
 
 At present (2024), the key members of *Lingnaam Jyutjam* are mainly involved in the following subprojects (not for profit):
 
-- Compilation and building of an online dictionary platform for Pan-Cantonese words including pronunciations and meanings: *[Jyutdict](/en/jyutdict-android/)*
+- Compilation and building of an online dictionary platform for Pan-Cantonese words including pronunciations and meanings: *[Jyutdict](/en/jyutdict-web/)*
 - Videos making of fun facts about Yue: released on *[Bilibili](https://space.bilibili.com/410568594)*
 - Research on the phonetics, phonology and romanization schemes of Yue varieties and the design of *[Jyutping++ (J++)](/en/j++/)*
 - Collection of Yue language resources from all over the world

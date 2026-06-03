@@ -17,8 +17,8 @@ xfeatures:
   details: Making videos on fun facts about Yue Language
   link: https://space.bilibili.com/410568594
   target: view_window
-- title: Extended Jyutping (J++)
-  details: An Jyutping-compatible romanisation scheme designed for various dialects in Yue
+- title: Jyutping++ (J++)
+  details: An Jyutping-compatible romanisation scheme designed for various dialects in Yue language
   link: /en/j++/
   target: ''
 - title: Forum on Languages in South China (FoLiSC)
