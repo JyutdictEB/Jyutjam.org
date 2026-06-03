@@ -18,7 +18,7 @@ xfeatures:
   link: https://space.bilibili.com/410568594
   target: view_window
 - title: Extended Jyutping (J++)
-  details: An extended Jyutping romanization scheme designed for various Yue languages
+  details: An Jyutping-compatible romanisation scheme designed for various dialects in Yue
   link: /en/j++/
   target: ''
 - title: Forum on Languages in South China (FoLiSC)
