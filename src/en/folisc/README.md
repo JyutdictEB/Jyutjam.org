@@ -6,6 +6,41 @@ sidebar: auto
 
 ![FoLiSC](./folisc_logo.png)
 
+# Call for Papers: The 6th Forum on Languages in South China (FoLiSC-6, July 2026)
+
+### 1. Introduction
+
+The 9th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 6th Forum on Languages in South China (or FoLiSC-6) will be organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
+
+- Date: 25 July 2026 (Saturday) (Tentative, the final date may be slightly adjusted)
+- Time: 1:50pm - 6:00pm (HKT, UTC+8) (Tentative, the final schedule will be announced in advance)
+- Venue: Online Zoom meeting
+
+### 2. Objectives
+
+We hope to:
+
+1. Conduct annual academic sharing and discussions before (or after) the *[Pan-Cantonese Offline Meeting](/en/pan-cantonese-offline-meeting/)* to provide a more formal academic exchange platform for Lingnaam Jyutjam;
+2. Incubate more achievements through regular exchanges.
+
+### 3. Topics
+
+Welcome scholars worldwide to participate in discussions and present linguistic research findings related to languages in South China, such as Yue, Hakka, Min and even ethnic languages. These research findings may include but are not limited to phonetics, phonology, morphology, syntax, semantics, typology, language acquisition, psycho-linguistics, neurolinguistics, computational linguistics, and corpus linguistics. In addition, we welcome ongoing projects, preliminary research, and academic papers from current semesters that have not yet been published.
+
+### 4. Reporting Format
+
+The reporting format for this discussion will adopt a roundtable meeting approach, with each report not exceeding 30 minutes. For instance, the first 5 minutes are for a brief description and summary, and the remaining 25 minutes are for a detailed explanation of the content, during which the audience can ask questions and make comments at any time.
+
+The report language is allowed and limited to Cantonese, Mandarin, or English.
+
+### 5. Abstract Submission
+
+Please submit your abstract no later than **12 July 2026, 24:00 (HKT)** via email to **jyutjam@tutanota.com** with "FoLiSC-6" in the subject line.
+
+The abstract should not exceed one A4 page and **must be submitted anonymously**. Please do not include your name, affiliated institution, or any personal information. The abstract can be written in Cantonese, Modern Chinese (including Hong Kong Chinese), or English.
+
+Results of the abstract review will be announced before 20 July 2026.
+
 ## The 5th Forum on Languages in South China (FoLiSC-5, August 2025)
 
 ### 1. Introduction
