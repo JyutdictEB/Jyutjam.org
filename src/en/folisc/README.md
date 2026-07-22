@@ -6,13 +6,13 @@ sidebar: auto
 
 ![FoLiSC](./folisc_logo.png)
 
-## Call for Papers: The 6th Forum on Languages in South China (FoLiSC-6, July 2026)
+## Call for Papers: The 6th Forum on Languages in South China (FoLiSC-6, August 2026)
 
 ### 1. Introduction
 
 The 9th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 6th Forum on Languages in South China (or FoLiSC-6) will be organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
 
-- Date: 25 July 2026 (Saturday) (Tentative, the final date may be slightly adjusted)
+- Date: 8 August 2026 (Saturday) (Tentative, the final date may be slightly adjusted)
 - Time: 1:50pm - 6:00pm (HKT, UTC+8) (Tentative, the final schedule will be announced in advance)
 - Venue: Online Zoom meeting
 
@@ -35,11 +35,11 @@ The report language is allowed and limited to Cantonese, Mandarin, or English.
 
 ### 5. Abstract Submission
 
-Please submit your abstract no later than **12 July 2026, 24:00 (HKT)** via email to **jyutjam@tutanota.com** with "FoLiSC-6" in the subject line.
+Please submit your abstract no later than **31 July 2026, 24:00 (HKT)** via email to **jyutjam@tutanota.com** with "FoLiSC-6" in the subject line.
 
 The abstract should not exceed one A4 page and **must be submitted anonymously**. Please do not include your name, affiliated institution, or any personal information. The abstract can be written in Cantonese, Modern Chinese (including Hong Kong Chinese), or English.
 
-Results of the abstract review will be announced before 20 July 2026.
+Results of the abstract review will be announced before 5 August 2026.
 
 ## The 5th Forum on Languages in South China (FoLiSC-5, August 2025)
 
