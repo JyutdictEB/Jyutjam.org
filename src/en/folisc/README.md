@@ -33,7 +33,11 @@ The reporting format for this discussion will adopt a roundtable meeting approac
 
 The report language is allowed and limited to Cantonese, Mandarin, or English.
 
-### 5. Abstract Submission
+### 5. Use of Artificial Intelligence
+
+We welcome and encourage authors to use artificial intelligence (AI) tools as aids in writing their abstracts. Nevertheless, authors bear full responsibility for the final content of their abstracts, including its accuracy and originality. We may also use AI tools to assist in reviewing submissions and providing review comments.
+
+### 6. Abstract Submission
 
 Please submit your abstract no later than **31 July 2026, 24:00 (HKT)** via email to **jyutjam@tutanota.com** with "FoLiSC-6" in the subject line.
 
