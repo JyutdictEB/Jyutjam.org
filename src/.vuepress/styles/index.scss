@@ -2,8 +2,9 @@
   max-width: 450px !important;
 }
 
-/* 内容区链接去掉下划线（外链箭头 external-link-icon 保留） */
-.vp-content a:not(.header-anchor) {
+/* 内容区链接去掉下划线（外链箭头 external-link-icon 保留）
+ * 注意：vp-content 是属性而非 class，必须用 [vp-content] 选择器 */
+[vp-content] a:not(.header-anchor) {
   text-decoration: none;
 }
 
