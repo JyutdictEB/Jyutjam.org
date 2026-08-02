@@ -2,6 +2,11 @@
   max-width: 450px !important;
 }
 
+/* 内容区链接去掉下划线（外链箭头 external-link-icon 保留） */
+.vp-content a:not(.header-anchor) {
+  text-decoration: none;
+}
+
 /* 首页功能块：与 VuePress 官方 vp-features 一致的 3 列网格 */
 .features {
   display: flex;
