@@ -2,8 +2,10 @@
 home: true
 heroImage: /jyutjam_logo_1024.png
 tagline: 粵語研究愛好者網上社團
-actionText: 關於我哋 →
-actionLink: /about/
+actions:
+- text: 關於我哋 →
+  link: /about/
+  type: primary
 xfeatures:
 - title: 泛粵典網頁版
   details: 各地粵語字音查詢

@@ -2,8 +2,10 @@
 home: true
 heroImage: https://z3.ax1x.com/2021/08/03/fiKNN9.jpg
 tagline: Online Association for Yue Studies Lovers
-actionText: About Us →
-actionLink: /en/about/
+actions:
+- text: About Us →
+  link: /en/about/
+  type: primary
 xfeatures:
 - title: Jyutdict Web
   details: A dictionary web app for Pan-Cantonese words including pronunciations and meanings
