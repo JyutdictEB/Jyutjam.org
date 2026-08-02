@@ -1,3 +1,41 @@
 .home .hero img {
   max-width: 450px !important;
 }
+
+/* 首页功能块：与 VuePress 官方 vp-features 一致的 3 列网格 */
+.features {
+  display: flex;
+  flex-wrap: wrap;
+  place-content: stretch space-between;
+  align-items: flex-start;
+
+  margin-top: 2.5rem;
+  padding: 1.2rem 0;
+  border-top: 1px solid var(--vp-c-divider);
+
+  @media (max-width: 719px) {
+    flex-flow: column;
+  }
+
+  .feature {
+    flex-grow: 1;
+    flex-basis: 30%;
+    max-width: 30%;
+
+    @media (max-width: 719px) {
+      max-width: 100%;
+      padding: 0 2.5rem;
+    }
+
+    h2 {
+      padding-bottom: 0;
+      border-bottom: none;
+      font-weight: 500;
+      font-size: 1.4rem;
+    }
+
+    p {
+      color: var(--vp-c-text-mute);
+    }
+  }
+}
