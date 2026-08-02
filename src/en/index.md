@@ -19,7 +19,7 @@ xfeatures:
   target: view_window
 - title: Jyutping++ (J++)
   details: An Jyutping-compatible romanisation scheme designed for various dialects in Yue language
-  link: /en/j++/
+  link: /en/jpp/
   target: ''
 - title: Forum on Languages in South China (FoLiSC)
   details: Annual forum for academic exchange on languages in South China

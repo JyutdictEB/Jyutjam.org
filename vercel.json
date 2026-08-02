@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/j\\+\\+/:path*",
+      "destination": "/jpp/:path*"
+    }
+  ]
+}

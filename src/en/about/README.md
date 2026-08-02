@@ -13,7 +13,7 @@ At present (2026), the key members of *Lingnaam Jyutjam* are mainly involved in 
 
 - Compilation and building of an online dictionary platform for Pan-Cantonese words including pronunciations and meanings: *[Jyutdict](/en/jyutdict-web/)*
 - Videos making of fun facts about Yue: released on *[Bilibili](https://space.bilibili.com/410568594)*
-- Research on the phonetics, phonology and romanization schemes of Yue varieties and the design of *[Jyutping++ (J++)](/en/j++/)*
+- Research on the phonetics, phonology and romanization schemes of Yue varieties and the design of *[Jyutping++ (J++)](/en/jpp/)*
 - Collection of Yue language resources from all over the world
 
 We have been organising our annual [offline meeting](/en/pan-cantonese-offline-meeting/) and [academic forum](/en/folisc/).

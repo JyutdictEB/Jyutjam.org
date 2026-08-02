@@ -32,7 +32,7 @@ Additionally, given the app's target audience, if you have limited exposure to C
 
 ## 2. General Character Table & Pan-Cantonese Character Table
 
-**This app uses the [Extended Jyutping](/en/j++/) romanisation scheme** (hereafter abbreviated as J++). The tone notation system is mostly illustrated in the [Pan-Cantonese Tone Chart](https://www.jyutdict.org/about#tone).
+**This app uses the [Extended Jyutping](/en/jpp/) romanisation scheme** (hereafter abbreviated as J++). The tone notation system is mostly illustrated in the [Pan-Cantonese Tone Chart](https://www.jyutdict.org/about#tone).
 
 **The General Character Table (or "Common Speech Character Table")** collects characters shared between Cantonese and Mandarin, or those with a relatively broad usage range.
 
@@ -56,7 +56,7 @@ Tone markers can be omitted to indicate "tone-insensitive" search.
 
 ------
 
-**The Pan-Cantonese Character Table records characters that are more distinctively "Cantonese" compared to Mandarin**, using [Extended Jyutping (J++)](/en/j++/) to document their pronunciations across various localities. As of February 2021, over 3,000 entries had been collected.
+**The Pan-Cantonese Character Table records characters that are more distinctively "Cantonese" compared to Mandarin**, using [Extended Jyutping (J++)](/en/jpp/) to document their pronunciations across various localities. As of February 2021, over 3,000 entries had been collected.
 
 While the table's definitions may not cover usages across all localities, and local records may be limited in precision by the contributors' knowledge, it at least allows these distinctive characters to be digitally preserved regardless of their status. It also helps roughly determine the usage range of a particular character and meaning. Conversely, local pronunciations can also provide more refined phonological information for the character head.
 
@@ -126,7 +126,7 @@ Note: The above screenshots are from historical versions; the layout in newer ve
 
 ### 3.1 Extended Jyutping Scheme
 
-See the dedicated [Extended Jyutping (J++)](/en/j++/) page.
+See the dedicated [Extended Jyutping (J++)](/en/jpp/) page.
 
 ### 3.2 Tone Chart
 

@@ -19,7 +19,7 @@ xfeatures:
   target: view_window
 - title: 擴展粵拼方案（J++）
   details: 爲粵語各地方言點而設且兼容粵拼嘅拼音方案
-  link: /j++/
+  link: /jpp/
   target: ''
 - title: 嶺南語言討論會（FoLiSC）
   details: 年度嶺南語言學術交流會議

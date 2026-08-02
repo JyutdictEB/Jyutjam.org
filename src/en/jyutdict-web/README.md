@@ -18,7 +18,7 @@ Many Cantonese-related lookup websites on the internet are essentially "Guangzho
 
 Given our target audience, if you have limited exposure to Cantonese phonology — for instance, if you are seeking pathways to learn Cantonese — **this site may appear less than friendly**.
 
-This site uses the [Extended Jyutping (J++)](/en/j++/) romanisation scheme. The tone notation system is mostly illustrated in the Pan-Cantonese tone chart below.
+This site uses the [Extended Jyutping (J++)](/en/jpp/) romanisation scheme. The tone notation system is mostly illustrated in the Pan-Cantonese tone chart below.
 
 ## 2. General Character Table & Pan-Cantonese Character Table
 
@@ -82,7 +82,7 @@ Since the local pronunciation data is filled in voluntarily by contributors from
 
 ### 3.1 Extended Jyutping Scheme
 
-See the dedicated [Extended Jyutping (J++)](/en/j++/) page.
+See the dedicated [Extended Jyutping (J++)](/en/jpp/) page.
 
 ### 3.2 Tone Chart
 
