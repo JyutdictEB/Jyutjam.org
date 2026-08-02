@@ -32,6 +32,7 @@ export default defineUserConfig({
   bundler: viteBundler(),
 
   theme: defaultTheme({
+    contributors: false,
     locales: {
       '/': {
         selectLanguageText: 'Languages',
