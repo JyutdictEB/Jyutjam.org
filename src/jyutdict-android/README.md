@@ -1,5 +1,5 @@
 ---
-sidebar: auto
+sidebar: 'heading'
 ---
 
 # 泛粵典安卓版

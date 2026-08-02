@@ -1,5 +1,5 @@
 ---
-sidebar: auto
+sidebar: 'heading'
 ---
 
 # 擴展粵拼方案（J++）

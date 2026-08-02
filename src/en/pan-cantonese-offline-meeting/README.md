@@ -1,5 +1,5 @@
 ---
-sidebar: auto
+sidebar: 'heading'
 ---
 
 # Pan-Cantonese Offline Meeting

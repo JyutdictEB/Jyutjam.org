@@ -1,5 +1,5 @@
 ---
-sidebar: auto
+sidebar: 'heading'
 ---
 
 # 關於我哋

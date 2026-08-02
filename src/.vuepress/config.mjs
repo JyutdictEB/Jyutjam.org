@@ -37,6 +37,7 @@ export default defineUserConfig({
         selectLanguageText: 'Languages',
         selectLanguageName: '粵語',
         lastUpdatedText: '上次更新',
+        sidebar: 'heading',
         navbar: [
           {
             text: '項目介紹',
@@ -63,6 +64,7 @@ export default defineUserConfig({
         selectLanguageText: 'Languages',
         selectLanguageName: 'English',
         lastUpdatedText: 'Last Updated',
+        sidebar: 'heading',
         navbar: [
           {
             text: 'Projects',

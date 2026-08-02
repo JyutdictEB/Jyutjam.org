@@ -1,5 +1,5 @@
 ---
-sidebar: auto
+sidebar: 'heading'
 ---
 
 # Lagarrue's GoT Cantonese Online Corpus

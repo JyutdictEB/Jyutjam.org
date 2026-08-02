@@ -1,5 +1,5 @@
 ---
-sidebar: auto
+sidebar: 'heading'
 ---
 
 # Lagarrue 北部灣粵語在線語料庫（Lagarrue's GoT Cantonese Online Corpus）
