@@ -37,10 +37,10 @@ export default defineUserConfig({
         selectLanguageText: 'Languages',
         selectLanguageName: '粵語',
         lastUpdatedText: '上次更新',
-        nav: [
+        navbar: [
           {
             text: '項目介紹',
-            items: [
+            children: [
               { text: '泛粵典安卓版', link: '/jyutdict-android/' },
               { text: '泛粵典網頁版', link: '/jyutdict-web/' },
               { text: '擴展粵拼方案（J++）', link: '/jpp/' },
@@ -49,7 +49,7 @@ export default defineUserConfig({
           },
           {
             text: '活動介紹',
-            items: [
+            children: [
               { text: '嶺南語言討論會（FoLiSC）', link: '/folisc/' },
               { text: '泛粵線下交流會', link: '/pan-cantonese-offline-meeting/' },
             ]
@@ -63,10 +63,10 @@ export default defineUserConfig({
         selectLanguageText: 'Languages',
         selectLanguageName: 'English',
         lastUpdatedText: 'Last Updated',
-        nav: [
+        navbar: [
           {
             text: 'Projects',
-            items: [
+            children: [
               { text: 'Jyutdict Android', link: '/en/jyutdict-android/' },
               { text: 'Jyutdict Web', link: '/en/jyutdict-web/' },
               { text: 'Jyutping++ (J++)', link: '/en/jpp/' },
@@ -75,7 +75,7 @@ export default defineUserConfig({
           },
           {
             text: 'Events',
-            items: [
+            children: [
               { text: 'Forum on Languages in South China (FoLiSC)', link: '/en/folisc/' },
               { text: 'Pan-Cantonese Offline Meeting', link: '/en/pan-cantonese-offline-meeting/' },
             ]
