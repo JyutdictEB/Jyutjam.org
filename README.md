@@ -36,5 +36,8 @@ Once that's done, just Commit & Push!
 > 備註：舊網址 `/j++/` 已由 `vercel.json` 嘅 rewrite 指向新版 `/jpp/` 頁面，舊鏈接仍然有效。<br/>
 > Note: the legacy URL `/j++/` is rewritten to the new `/jpp/` page via `vercel.json`, so old links still work.
 
+**遷移記錄 Migration Record**：本站於 2026-08 由 VuePress 1.x 遷移至 2.x，完整嘅改動清單、踩坑紀錄同解決方法見 [`docs/vuepress-v2-migration.md`](docs/vuepress-v2-migration.md)。<br/>
+Migrated from VuePress 1.x to 2.x in 2026-08; see [`docs/vuepress-v2-migration.md`](docs/vuepress-v2-migration.md) for the full change list and troubleshooting notes.
+
 若果你唔係我哋 JyutdictEB 嘅成員，你都可以創建 Pull Requests 來幫手改嘢，或者直接喺 Issues 度提意見。<br/>
 If you are not a member of our JyutdictEB team, you can also create Pull Requests to help with changes, or comment directly in Issues.
