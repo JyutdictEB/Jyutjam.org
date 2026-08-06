@@ -6,15 +6,15 @@ sidebar: 'heading'
 
 ![FoLiSC](./folisc_logo.png)
 
-## Call for Papers: The 6th Forum on Languages in South China (FoLiSC-6, August 2026)
+## The 6th Forum on Languages in South China (FoLiSC-6, August 2026)
 
 ### 1. Introduction
 
 The 9th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 6th Forum on Languages in South China (or FoLiSC-6) will be organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
 
-- Date: 8 August 2026 (Saturday) (Tentative, the final date may be slightly adjusted)
-- Time: 1:50pm - 6:00pm (HKT, UTC+8) (Tentative, the final schedule will be announced in advance)
-- Venue: Online Zoom meeting
+- Date: 8 August 2026 (Saturday)
+- Time: 8:50am - 6:40pm (HKT, UTC+8)
+- Venue: Online VooV Meeting (Tencent Meeting) (For room number and passcode, please refer to the attached *Program and Abstracts* below)
 
 ### 2. Objectives
 
@@ -33,23 +33,15 @@ The reporting format for this discussion will adopt a roundtable meeting approac
 
 The report language is allowed and limited to Cantonese, Mandarin, or English.
 
-### 5. Use of Artificial Intelligence
+### 5. Related documents
 
-We welcome and encourage authors to use artificial intelligence (AI) tools as aids in writing their abstracts. Nevertheless, authors bear full responsibility for the final content of their abstracts, including its accuracy and originality. We may also use AI tools to assist in reviewing submissions and providing review comments.
-
-### 6. Abstract Submission
-
-Please submit your abstract no later than **31 July 2026, 24:00 (HKT)** via email to **jyutjam@tutanota.com** with "FoLiSC-6" in the subject line.
-
-The abstract should not exceed one A4 page and **must be submitted anonymously**. Please do not include your name, affiliated institution, or any personal information. The abstract can be written in Cantonese, Modern Chinese (including Hong Kong Chinese), or English.
-
-Results of the abstract review will be announced before 5 August 2026.
+FoLiSC-6 Program and Abstracts: [GitHub archive](https://github.com/JyutdictEB/FoLiSC-Docs/raw/main/FoLiSC-6/FoLiSC-6_Program_and_Abstracts.pdf)
 
 ## The 5th Forum on Languages in South China (FoLiSC-5, August 2025)
 
 ### 1. Introduction
 
-The 8th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 5th Forum on Languages in South China (or FoLiSC-5) will be organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
+The 8th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 5th Forum on Languages in South China (or FoLiSC-5) was organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
 
 - Date: 3 August 2025 (Sunday)
 - Time: 13:50pm - 18:00pm (HKT, UTC+8)
@@ -80,7 +72,7 @@ FoLiSC-5 Program and Abstracts: [View online](https://kdocs.cn/l/cp7pLN0HDh3t) |
 
 ### 1. Introduction
 
-The 7th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 4th Forum on Languages in South China (or FoLiSC-4) will be organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
+The 7th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 4th Forum on Languages in South China (or FoLiSC-4) was organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
 
 - Date: 10 August 2024 (Saturday)
 - Time: 13:20pm - 18:00pm (HKT, UTC+8)
@@ -111,7 +103,7 @@ FoLiSC-4 Program and Abstracts: [View online](https://kdocs.cn/l/csICMImuZjES) |
 
 ### 1. Introduction
 
-The 6th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 3rd Forum on Languages in South China (or FoLiSC-3) will be organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
+The 6th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 3rd Forum on Languages in South China (or FoLiSC-3) was organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
 
 - Date: 29 July 2023 (Saturday)
 - Time: 13:40pm - 18:00pm (HKT, UTC+8)
@@ -142,7 +134,7 @@ FoLiSC-3 Program and Abstracts: [View online](https://kdocs.cn/l/cjboPubY84EQ) |
 
 ### 1. Introduction
 
-The 5th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 2nd Forum on Languages in South China (or FoLiSC-2) will be organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
+The 5th Pan-Cantonese Offline Meeting of Lingnaam Jyutjam and the 2nd Forum on Languages in South China (or FoLiSC-2) was organised by Jyutdict Editorial Board. The basic information of the forum is as follows:
 
 - Date: July 24, 2022 (Sunday)
 - Time: 14:30pm - 17:35pm (UTC+8)
