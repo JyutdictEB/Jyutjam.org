@@ -48,6 +48,22 @@ vercel.json              # 旧 URL /j++/ → /jpp/ rewrite
 - 首页（`src/index.md`、`src/en/index.md`）：`home: true` + `heroImage` + `actions` + **`xfeatures`**（自定义字段，见下）
 - **侧边栏是客户端从 DOM 提取标题渲染的，SSR HTML 里看不到是正常的**——验证侧边栏必须在浏览器里看，不能 grep 构建产物
 
+## 图片与暗色模式约定
+
+- 主题暗色模式选择器是 `html[data-theme='dark']`（theme-default rc.132 起用 data-theme 属性，不再是 `html.dark` class）——自定义暗色样式必须用前者。
+- **白底图不允许直接引用**：暗色模式下会露白块。项目里已处理的图分两类：
+  - **真透明图**：`public/jyutjam_logo*.png` 已抠成真透明（绿色 logo，亮/暗模式皆可用）。替换 logo 时保持透明，不要交回白底图；抠白可用亮度键：`alpha = 255 - min(R,G,B)`（纯白为 0，阈值取 min≤200 全不透明），边缘像素按白底反除（un-premultiply）去白边。
+  - **白底深色内容图**（App 截图、双色 logo）：暗色模式下由 `index.scss` 的规则自动反色适配：
+    ```scss
+    html[data-theme='dark'] {
+      img[src*='Kelit-'], img[src*='folisc_logo'], img.dark-invert {
+        filter: invert(1) hue-rotate(180deg);
+      }
+    }
+    ```
+    新增这类图时给 `<img>` 加 `class="dark-invert"`（或复用 `Kelit-` / `folisc_logo` 文件名前缀）。
+  - **反色只适用于「白底 + 深色内容」的图**；照片、彩色插画不得加 `dark-invert`，反色会变负片观感。
+
 ## 注意事项与坑
 
 1. **URL slug 不能含 `+` 等字符**：v2 的 `sanitizeFileName` 会把 `+` 编码成 `_`（`/j++/` → `/j__/`），permalink 也救不了。目录已改名 `jpp`，旧 URL 由 vercel.json rewrite 兜底。新页面命名避免 `"#$%&*+,:;<=>?` 等字符。
